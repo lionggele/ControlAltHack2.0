@@ -8,10 +8,11 @@ public class Player : MonoBehaviour
 {
     public int flag= 0;
     public float speed = 5.0f;
-
+    /*
     public Text flagAmount;
     public Text Escaped;
     public GameObject door;
+    */
     // Start is called before the first frame update
     void Start()
     {
@@ -37,11 +38,13 @@ public class Player : MonoBehaviour
         {
             transform.Translate(0, -speed * Time.deltaTime, 0);
         }
-        
+
+        /*
         if (flag == 3)
         {
             Destroy(door);
         }
+        */
        
 
     }
@@ -55,11 +58,11 @@ public class Player : MonoBehaviour
         
         if (collision.gameObject.tag == "Flag")
         {
-            flag++;
-            flagAmount.text = "Flag " + flag;
+            //flag++;
+            //flagAmount.text = "Flag " + flag;
             Destroy(collision.gameObject);
         }
-
+        /*
         if (collision.gameObject.tag == "Enemies")
         {
             Debug.Log("hit enemy ");
@@ -71,6 +74,7 @@ public class Player : MonoBehaviour
         {
             Escaped.text = "ESCAPED";
         }
+        */
 
 
 
