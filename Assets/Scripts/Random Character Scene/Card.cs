@@ -9,10 +9,6 @@ public class Card
     public string cardName;
     public string majorName;
 
-    public Card(){
-
-    }
-
     public Card(int Id, string CardName, string MajorName){
         id=Id;
         cardName=CardName;

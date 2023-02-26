@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using UnityEngine;
+using Photon.Pun;
 
 public class Dice : MonoBehaviour {
 
@@ -11,6 +12,8 @@ public class Dice : MonoBehaviour {
 
 	// Use this for initialization
 	private void Start () {
+
+        PhotonNetwork.AutomaticallySyncScene = false;
 
         // Assign Renderer component
         rend = GetComponent<SpriteRenderer>();

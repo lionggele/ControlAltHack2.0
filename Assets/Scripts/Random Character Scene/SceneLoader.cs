@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class SceneLoader : MonoBehaviour
 {
     [SerializeField]
-    private float delayBeforeLoading = 5f;
+    private float delayBeforeLoading = 3f;
     [SerializeField]
     private string sceneNameToLoad;
 
