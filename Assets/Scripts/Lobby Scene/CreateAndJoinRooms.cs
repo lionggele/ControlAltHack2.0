@@ -4,13 +4,15 @@ using UnityEngine;
 using UnityEngine.UI;
 using Photon.Pun;
 using Photon.Realtime;
+using System.Linq;
 
 public class CreateAndJoinRooms : MonoBehaviourPunCallbacks
 {   
-    //public List<string> usernames = new List<string>();
     public InputField createInput;
     public InputField joinInput;
     public GameObject WaitingLobbyPage;
+    [SerializeField] Transform playersContent;
+    [SerializeField] GameObject PlayersPrefab;
 
     public void CreateRoom(){
         if (createInput.text == "" || createInput.text == null){
@@ -28,15 +30,20 @@ public class CreateAndJoinRooms : MonoBehaviourPunCallbacks
     public override void OnJoinedRoom(){    
         Debug.Log(PhotonNetwork.NickName + " has made the room");
         WaitingLobbyPage.SetActive(true);
+        
+        Player[] players = PhotonNetwork.PlayerList;
+
+        for(int i = 0 ; i < players.Count(); i++){
+            Instantiate(PlayersPrefab,playersContent).GetComponent<Players>().SetUp(players[i]);
+        }
     }
 
     public override void OnPlayerEnteredRoom(Player newPlayer){
         Debug.Log(newPlayer.NickName + " has joined the room");
-        PlayerPerms.usernames.Add(newPlayer.NickName);
+        Instantiate(PlayersPrefab,playersContent).GetComponent<Players>().SetUp(newPlayer);
     }
 
     public override void  OnPlayerLeftRoom(Player otherPlayer){
         Debug.Log(otherPlayer.NickName + " has left the room");
-        PlayerPerms.usernames.Remove(otherPlayer.NickName);
     }
 }

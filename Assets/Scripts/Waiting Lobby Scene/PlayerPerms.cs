@@ -4,13 +4,13 @@ using UnityEngine;
 using UnityEngine.UI;
 using Photon.Realtime;
 using Photon.Pun;
+using UnityEngine.SceneManagement;
 
 public class PlayerPerms : MonoBehaviour
 {
-    public static List<string> usernames = new List<string>();
-    public List<string> usernameshere = new List<string>();
-    public Text Username, Username1, Username2, Username3;
     public GameObject startButton;
+    public GameObject leaveButton;
+    public GameObject WaitingLobbyPage;
 
     void Start(){
 
@@ -21,23 +21,15 @@ public class PlayerPerms : MonoBehaviour
         }
     }
 
-    /*public override void OnPlayerEnteredRoom(Player newPlayer){
-        usernames.Add(PhotonNetwork.NickName);
+    public void DisconnectPlayer(){
+        StartCoroutine(DisconnectAndActive());
     }
 
-    public override void OnPlayerLeftRoom(Player otherPlayer) {
-        usernames.Remove(PhotonNetwork.NickName);
-    }
-
-    void Update(){
-        foreach (Player Player in PhotonNetwork.PlayerList) {
-            usernames.Add (PhotonNetwork.NickName);
-        }
-    }*/
-
-    void Update(){
-        //Username.GetComponent<Text> ().text = (usernames[0]);
-        usernameshere = usernames;
+    IEnumerator DisconnectAndActive(){
+        PhotonNetwork.LeaveRoom();
+        while(PhotonNetwork.InRoom)
+            yield return null;
+        SceneManager.LoadScene("Lobby");
     }
 
     public void StartGame(){
