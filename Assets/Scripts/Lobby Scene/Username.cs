@@ -23,12 +23,17 @@ public class Username : MonoBehaviour
     }
 
     public void SaveUsername(){
-        PhotonNetwork.NickName = usernameInput.text;
+        string check = usernameInput.text;
+        if(!string.IsNullOrWhiteSpace(check)){
+            PhotonNetwork.NickName = usernameInput.text;
 
-        PlayerPrefs.SetString("Username", usernameInput.text);
+            PlayerPrefs.SetString("Username", usernameInput.text);
 
-        myUsername.text = usernameInput.text;
+            myUsername.text = usernameInput.text;
 
-        UsernamePage.SetActive(false);
+            UsernamePage.SetActive(false);
+        }else{
+            Debug.LogError("Username can't be empty");
+        }
     }
 }
