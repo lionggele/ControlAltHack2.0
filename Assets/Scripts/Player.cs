@@ -5,9 +5,9 @@ using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
-    public float m_moveSpeed = 3f;
+    public float m_moveSpeed = 1f;
     private Animator animator;
-    Vector2 m_moveInput = Vector2.zero;
+    Vector2 m_moveInput;
     Rigidbody2D m_rb;
 
     void Start()
@@ -15,20 +15,33 @@ public class Player : MonoBehaviour
         m_rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
     }
-
-    private void FixedUpdate()
+    /*
+    void Update()
     {
-        m_rb.velocity = m_moveInput * m_moveSpeed;
+        m_moveInput.x = Input.GetAxis("Horizontal");
+        m_moveInput.y = Input.GetAxis("Vertical");
     }
+    */
+    void FixedUpdate()
+    {
+         //m_rb.velocity = m_moveInput * m_moveSpeed;
+        m_rb.MovePosition(m_rb.position + m_moveInput * m_moveSpeed * Time.fixedDeltaTime);
+    }
+
 
     void OnMove(InputValue value)
     {
         m_moveInput = value.Get<Vector2>();
-
-            animator.SetFloat("Xinput", m_moveInput.x);
-            animator.SetFloat("Yinput", m_moveInput.y);
+        if (m_moveInput != Vector2.zero)
+        {
+            animator.SetFloat("XInput", m_moveInput.x);
+            Debug.Log(m_moveInput.x +"x");
+            animator.SetFloat("YInput", m_moveInput.y);
+            Debug.Log(m_moveInput.y +"y");
+        }
         
     }
+
 
 }
  
