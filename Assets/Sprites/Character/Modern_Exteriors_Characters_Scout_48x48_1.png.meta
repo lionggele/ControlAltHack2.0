@@ -160,7 +160,7 @@ TextureImporter:
         width: 46
         height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -181,7 +181,7 @@ TextureImporter:
         width: 46
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -202,7 +202,7 @@ TextureImporter:
         width: 45
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -210,6 +210,5487 @@ TextureImporter:
       bones: []
       spriteID: 88ad6b1585c2754479dd9be4fde3ac8f
       internalID: -761725340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_0
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 1857
+        width: 150
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9b4a9c7634c784984c7e1c37e9938d
+      internalID: 1165848153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1679
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c47623af812f34b8a82450fafaf9ba
+      internalID: 110899465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1678
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4155de5230aabc84cb36eaad20a583b5
+      internalID: -1353955143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1679
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28e0789d9c563e468bccd0f055f2435
+      internalID: 120777215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1584
+        width: 147
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c4ba12b7d1799419583416628e906d
+      internalID: 1697513067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_9
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1681
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5b0b968dca5b449aa56555d4099dd6
+      internalID: 408588325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_10
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1680
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc17de7cc617a5a4a9c875f2b8dc060e
+      internalID: -1763623660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_11
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1682
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b25f0ef6d13524aad60668fdf4cf12
+      internalID: -528185772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1622
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5abedf61e39b6e40be60086cf95fadb
+      internalID: 170789241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1622
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93e57a5d3b34bf40865854fde874377
+      internalID: -2137599074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1624
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488678192daa3d348b5762e278113694
+      internalID: 1225323545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1624
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cde336e1f188ae46b1e0ca31a7bb0c8
+      internalID: -1449345709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1622
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7e0b306c284db4d952edf708577b86
+      internalID: 169895420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1622
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6b1729668563d459598553fb83a91a
+      internalID: 713001281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1634
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8246bb4f24c38143b784a23570f3796
+      internalID: 1465026946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_19
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1622
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e8cd968b2cbf742999ea6c9c2d05af
+      internalID: 1748065518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_20
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1594
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ec89a35758e4746940af97e68bbd0c
+      internalID: 1095271026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1490
+        width: 577
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fe4937c1f5f7b44a4688c56c1341f7
+      internalID: 1200073285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1393
+        width: 577
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4738109c47492b3498ffd439f8a2c689
+      internalID: 1443649546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1294
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5500cc87bdaafcb4c9703a97a6f95086
+      internalID: 1980263148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1294
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f546e484bdf37254484efed9e230d91f
+      internalID: -844022190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1294
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0412fb9447d36b49a4d8ce57855c02f
+      internalID: -650867588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1294
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab7ad48bf7541843be7983b5a602368
+      internalID: 2058486581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1294
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b61d6b7f490b1a4891af67b542a972a
+      internalID: 2036408185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1294
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e938627d41b3a408b2b5f41c77afb5
+      internalID: -1790877339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1294
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8261975625e4849a5d155418dc33a6
+      internalID: -1057062523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_30
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1294
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f78628ab75abb47874805b8e594866
+      internalID: 581423071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_31
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1294
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0047c11db2b65b245bc5aa042c0fc6f2
+      internalID: 62971280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_32
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1294
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f04d0fddb9df8439afe12060ef4ab2
+      internalID: 1646363602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_33
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1294
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf170fd2d02de5f43853b5bff2a8167e
+      internalID: -1749835814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_34
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1294
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70a4c7b73de41140afa65b33c10ec71
+      internalID: 558123866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1199
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb43e50243017d540b39ba23ffb1406c
+      internalID: 1913150775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1199
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddb355d23018a74faa9cbb68f3e65d7
+      internalID: -466428586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1199
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159642e8f721a6b44828177b87877664
+      internalID: -284193378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1199
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15514dbd7991c334fa318fed09b26568
+      internalID: 692089177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1199
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5ee73d0ed128e4cab791f14e897788
+      internalID: -2048149980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_40
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1199
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30df4905fbefe8f4a8059bb3c18d7624
+      internalID: 1298167830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_41
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1199
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65efc346b0e30184eaa0804a652840e2
+      internalID: -1809839963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1199
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5450554309ab07746b4f90e3ef8d0102
+      internalID: 1475444497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_43
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1199
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0706941f9cd135f43b4e234c25c7088e
+      internalID: 1352513868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_44
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1199
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f168791e921534a46a1795f35a159d81
+      internalID: 274610913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_45
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1199
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731079b4818577f46b6b0d2187cd063a
+      internalID: -630412811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_46
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1199
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd2a0b2914e20c49ba174a5f32c00e0
+      internalID: -796136367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_47
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1199
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435d955f1b9bc4542b082f2101c0db97
+      internalID: 1506288215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_48
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1207
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d30eb207893241a3141b7fcba0627
+      internalID: -1671040136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_49
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1207
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66efb55b773905c4490c4de146113fbc
+      internalID: 1141293241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_50
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1207
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e660ed2a6c2c96a40a93eced9bbe07a1
+      internalID: 1126502473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_51
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1207
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f48d619d530a14abb572116375e0e5
+      internalID: 1656359303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_52
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1207
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcff988b9a5dd4469db6cc522eed129
+      internalID: -1734395671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_53
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1207
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0823aed25c33ad8438101429acfe01e4
+      internalID: -226799792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_54
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1207
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b4f75ebf104e143ad822010b18107a
+      internalID: 1948189420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_55
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1207
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafdf978890332245868b8a6ed7ca667
+      internalID: -256904532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_56
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1207
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad660652f605c744caf9f22d497ad7ba
+      internalID: 1086098661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_57
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1211
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c02b062ecd91b43b51302ed9c2570d
+      internalID: -718111472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_58
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1207
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c805c13d63f9f6e44b0608e337c1c3e6
+      internalID: 1019357165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_59
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1207
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8989e90784774a64e82401426fb7539d
+      internalID: -366795952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1103
+        width: 289
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85b787b72a1766458d4889a5049909f
+      internalID: -1235470760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_61
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1103
+        width: 578
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2a6e92d03805c46b2d953f11c22546
+      internalID: -1644622154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_62
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1106
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3138082073e99de41935709491cf194b
+      internalID: -777335292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_63
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1103
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7799770cbb3a1974bb4e78e34c611d60
+      internalID: 361400331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_64
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1106
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7b3ddcae573034eacbd45dddeaf719
+      internalID: 1890663773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_65
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1106
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77b2e00aa7418341a43809b84ee126d
+      internalID: 688136732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_66
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1103
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0fefd5cd6a58f4a88e22c208a2aeec
+      internalID: -1553643474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_67
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1106
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30ca34b160acd4499efa195a236ffe6
+      internalID: 1291516592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_68
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1115
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731ddd6f614b240438c9440814381eb8
+      internalID: 761248051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_69
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1115
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb76fc22d430d042a06514ba377b89c
+      internalID: -889088088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_70
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1115
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baf3a9bc0bbaa74c873ee8e272ab79d
+      internalID: 1855986275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_71
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1115
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef63ff639387e684a8d1c85f1700fb64
+      internalID: 166520692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_72
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1115
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fa35c73fc077843aa8457471e1d384
+      internalID: 753679825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_73
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1115
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8318b49e1ee57c349a770f0c5fe24015
+      internalID: -346872663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_74
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1115
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee5c42a9b65d9d41a2801317b27a1f8
+      internalID: 1777491095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_75
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1115
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67159d74b41852488d5088c9175c52d
+      internalID: -550475207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_76
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1115
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25c2bd6811ad824980826b0892e4315
+      internalID: -464433301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_77
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1103
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c9aac3272474b428d925cae5cf67ec
+      internalID: 1847690359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_78
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1103
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556af950d55ef9c4bb8137e19983ef62
+      internalID: -1500136606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_79
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 1103
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec27d9821cf6d874d8b37dfbe32fed6c
+      internalID: 1042138288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1006
+        width: 577
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af81a87d530e57648813d5a1a5ee9c9a
+      internalID: -2025686419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_81
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1006
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c858c00f3cdcabc4b867c580c08e0c01
+      internalID: -962626956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_82
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1006
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600e1ae5517a6d343acf16131c46f12a
+      internalID: -472321459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_83
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1006
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68863bef5327764383b44dc9b8de434
+      internalID: 849029867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_84
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1006
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ebddc4a4de9dc4796a8b2a2915a8a1
+      internalID: 496041948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_85
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1006
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12b86d1c67c37e4695c74f9c7e4916c
+      internalID: -1310205219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_86
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1006
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3726f65263f37429e4b508441b4930
+      internalID: 941950433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_87
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1006
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bf229de7c5f6d4d9e828a3eca43a88
+      internalID: -1205485033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_88
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1006
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a5fe4f53c554a418b3c91354baee3e
+      internalID: 686308483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_89
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1006
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eebc0787c4234b4fa46671ac66fb176
+      internalID: 902750149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_90
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1006
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a99b10ee79e4a48a699efae2b44e4a
+      internalID: -1582724620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_91
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1006
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27ef9a3a8a296f4d99b61bd23a08032
+      internalID: 1519070287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_92
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1006
+        width: 577
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656c24fe55de5294398ebfb37a2661cb
+      internalID: -1057888693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_93
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1006
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3880d48561f1ea14c9e64ff5e708a2a1
+      internalID: 1941662483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_94
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1006
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0910b227ceee9754a815359bca718fb3
+      internalID: -1629285662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_95
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1006
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34cf66a902ed2c409da2d150d82211b
+      internalID: 1568062541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_96
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1006
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee1534ae87e2184aadb8d2550b55d93
+      internalID: -1651515690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_97
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1006
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035f9606b9691ed4ea32460655bbc7b2
+      internalID: 2001891864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_98
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1006
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c5e0413ddd1a342a995056150f0acd
+      internalID: 1099286913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_99
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1006
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6b537c867500e4caa02a9ba9f35971
+      internalID: -1434638448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_100
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 1006
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675843d3c43e0344084d2eb8c5dab32d
+      internalID: 1708040030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_101
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1006
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c2e5051ed821243ad7dd4e5e58a6df
+      internalID: -1686050118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_102
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 1006
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ae0dc0a78611242a16eeee326c0b01
+      internalID: 894789322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 911
+        width: 481
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32ca4dfa08fad64ead1fee5d3358a0b
+      internalID: 1773219459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_104
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 911
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a52bc88bfcd9654c8d681449fd311fe
+      internalID: 1159584299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_105
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 911
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96235599ac5daea4da4d1e8254d948dd
+      internalID: 582463203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_106
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 911
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244da096fcf32f34c993333069e4f7a5
+      internalID: -1066800833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_107
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 911
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b46e67fbe35a847a08b9ce291567a5
+      internalID: 1372748528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_108
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 911
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4084099008febc14d990018457639538
+      internalID: -1221815920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_109
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 911
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62985827e9488c7478bb9ea34f696481
+      internalID: -1750006081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_110
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 911
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423df824eb2cfe445a8479c2cad6e48a
+      internalID: -680505033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_111
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 911
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a488774ef32b8bc43b5593de4e2abf85
+      internalID: -1784379130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_112
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 911
+        width: 527
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d8b82b6ea8c1649bd3762b5b6c5132
+      internalID: -1361958470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_113
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 911
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a0bfc3b38e89d46ad9516853d87971
+      internalID: -162239352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_114
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 911
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dcd10f51f2c764297a2dc4b36a4975
+      internalID: 638184132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_115
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 911
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39608eefcb65534db2b098dac27dfc8
+      internalID: 1148399064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_116
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 911
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087cc16b3d717e74fa42c74f9f69d3af
+      internalID: -926080575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_117
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 911
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e302e85fb812a43bdb494d7085498a
+      internalID: -820468112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_118
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 911
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93cf15d7f4115944993a55bfb2d0f66
+      internalID: -1279132594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_119
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 911
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93e834cffd1a6b44991638d73808ea9
+      internalID: -741027024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_120
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 911
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919412a5690743545ab2c5bc130fb7eb
+      internalID: 1150336987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_121
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 911
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df0d1b63caad9843995e99c3e089e70
+      internalID: 1258152626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_122
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 911
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8887a315e35272b4ab584d4d33433651
+      internalID: -308322777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_123
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 917
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b4042c930483c4999d8676024e3668
+      internalID: -908472405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_124
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 917
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0b0988c71f25247979ac00bd34c142
+      internalID: 1525679323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 815
+        width: 769
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed24601c503caa94a9ad4f678a31a50a
+      internalID: 634926193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_126
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 815
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12022bec01979e84389ef42d75eccf83
+      internalID: -348212475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_127
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 815
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86d643f6faa79448ab749ef2e4df8bb
+      internalID: 887621597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_128
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 815
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16ce8617bf23f7409eb40c967076901
+      internalID: 879258165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_129
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 815
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e4365b93a2b0b47b26af95421df540
+      internalID: -1131069260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_130
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 815
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9562b796e7082c4409c101ed367b799f
+      internalID: -1824539264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_131
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 815
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0478d3118447db84881ce5684a6d3f5a
+      internalID: -1922905916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_132
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 815
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60220d6b126cf741be50e97c85fd41c
+      internalID: -1073487992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_133
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 815
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23228b6fd4f3ff4b8d44cf8a4907679
+      internalID: -1940030629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_134
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 815
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acddd52be106aca49bca393b5398e97b
+      internalID: 254012836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_135
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 815
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151ce81eb815b6247b0a8bf7d7e532ec
+      internalID: 1515548008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_136
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 815
+        width: 673
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b758a1a454f9fc14e8b4de5cbf5944c3
+      internalID: -448335625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_137
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 815
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799f9c4fdf44b1043b3a5376b6d8d89b
+      internalID: 88310626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_138
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 815
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c6b4c3d88ea2d4081209a44471b46f
+      internalID: 272890644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_139
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 815
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63e85bcc33b0024cb8e5b1f31e8ec52
+      internalID: 731822522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_140
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 815
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d925d6f5e3ef84dac01da83338a678
+      internalID: -1877971776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_141
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 815
+        width: 242
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfdb1ea7577aed469f8d1f4aab68687
+      internalID: -1754860125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_142
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 815
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c27c06353c937409bb9000a1b53850
+      internalID: 1971227199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_143
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 815
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1307e81d7459674d843d4af1bfb552b
+      internalID: -350030482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_144
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 815
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a314b5c092900847a769a1af3de90b6
+      internalID: 311197209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 718
+        width: 769
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c76a2edc2fa7e45a5617e1ee5b459f
+      internalID: 312644012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_146
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 718
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911d497e81cb36a41a8f2720f4c52d68
+      internalID: -237797769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_147
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 718
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249dbb9a686e0a5448838262912aab82
+      internalID: -1073270639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_148
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 718
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b316b276c73d5541bb6be3f03ede58c
+      internalID: -574017268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_149
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 718
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605f625d1d1f7de4896436d27371089c
+      internalID: -1115230408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_150
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 718
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470858fe248148c43a074360bccf6014
+      internalID: -1927347934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_151
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 718
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af1a0efb78c0e34fa8caef3454a54c3
+      internalID: -465653646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_152
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 718
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55799b389215124ea3d3f452a3f9e3f
+      internalID: -1024207153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_153
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 718
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4264c7f20a13542be552613bd4b654
+      internalID: -743565609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_154
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 718
+        width: 144
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a5ef0fe81568b4bb3c1f7c78a244c0
+      internalID: 1242931860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_155
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 718
+        width: 673
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570431ecfdef9cc4bb7bc5ad2b6d8fbc
+      internalID: -1499328837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_156
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 718
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fcb79f00a98944d87defffcaf770d6
+      internalID: -1249235079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_157
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 718
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83257e2df014ff04c99317d58db97487
+      internalID: -991044141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_158
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 718
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d1bf4056bc4d242ad135c325d3d392
+      internalID: -1733221305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_159
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 718
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e848553af2c7fbf41a8808f3f832b42b
+      internalID: -1481892197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_160
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 718
+        width: 239
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86ad3635c821964081b895f36502d75
+      internalID: 1910092732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_161
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 718
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a87214921fbd147856042a6c75d996
+      internalID: 146936204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_162
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 718
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637a21f5d204d554fb9a72ef789afa94
+      internalID: 1440249391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_163
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 718
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a536e3662793b5a40ba7295acd4aa10f
+      internalID: -374254004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 289
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad4822a2921d2b4a8489d831a30a1e3
+      internalID: 607809301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_165
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 623
+        width: 239
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4111a014b2e467479eb8acb4ecaaba0
+      internalID: -796513267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_166
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 623
+        width: 338
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907ae1547ce22b8439dbecab6f90fa92
+      internalID: 1075641651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_167
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 623
+        width: 190
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e68f1157695454c83b2e4c407df450
+      internalID: -1124186757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_168
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 623
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198e92ef1810ee648b09f682de07439f
+      internalID: 51201769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_169
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 623
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6386a181828df4b47b05f9fd87583fda
+      internalID: 1645631469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 289
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1582aab9259770d41af1f4e8b6554bfb
+      internalID: 780972113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_171
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 527
+        width: 143
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5979c75a4de2a438368da5c8d8a548
+      internalID: -997280892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_172
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 527
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f573ad0aa6e24c93057e12ddf30ed
+      internalID: -318892313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_173
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 527
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ee3421dc088f441abc6379ec5e939f
+      internalID: -2057345496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_174
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 527
+        width: 338
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762c3c388dff4714eaebb0d9e8899968
+      internalID: -1470735333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_175
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 527
+        width: 142
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b5a7d3bc1c00045ad5af395bd20f2d
+      internalID: -1287019884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_176
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 527
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b107f181947b26c4ab24af57228f4e03
+      internalID: -1835746314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_177
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 527
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9954e11f38f0e641aae8027d8ad7138
+      internalID: 181288313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 289
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740bffb5020d8234e996191c1262d70c
+      internalID: 957076172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_179
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 431
+        width: 191
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04b4eb8f3f130d4ca72830d18e05f0b
+      internalID: 96464238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_180
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 431
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dd9076b7c4649498768ea856d4ef22
+      internalID: -772346566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_181
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 431
+        width: 338
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c487c4772786b4c84c30dc397e2e11
+      internalID: 1334591677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_182
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 431
+        width: 190
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724487d63dd914b42b303eadcea5af95
+      internalID: -711289570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_183
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 431
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a105b89779311f4e94e68e0d6507e3e
+      internalID: -1570144284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_184
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 431
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dffa5be8c8bb7b4d9a192606fd80da0
+      internalID: 1096272996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_185
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 450
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd9f8c4e1274444db1920cfdeecd246
+      internalID: 1363225265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_186
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 452
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd64fae26a029f44da27eb5f66be0480
+      internalID: 1683678282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_187
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 443
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c42d49f4b68b241a1053c73e460395
+      internalID: -1288990667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_188
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 460
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d6c6e6e61fa60428d65bc7cf4f6ccd
+      internalID: 1819955404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_189
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 455
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a4dd53f788ede43b678be48022a638
+      internalID: -1959777375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_190
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 450
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d862adeb05bdd74fbdfbeaf339a3a8b
+      internalID: 199905915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_191
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 450
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862975370eae96841a9adb29f2a4fdb2
+      internalID: -126419526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_192
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 452
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126b2f1d2dec72749aacad5d9f92bdef
+      internalID: -1188290581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_193
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 450
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662d0d5729c5a734192eaea73f9ba0b0
+      internalID: 2095387658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_194
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 437
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d8a2cf9a3ce341a4cc403bcb74a5a
+      internalID: 206709285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_195
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 437
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309f7bfd473704c44ac66d5292f507dd
+      internalID: 114346974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_196
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 437
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bbbdce755582446a93ca15c0af8732
+      internalID: -279145028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_197
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 443
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a073e923f5d396445bef273c161029e3
+      internalID: 2145760509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_198
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 450
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad675894fba0cb042b41b5615cf8e33c
+      internalID: 59443450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_199
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 445
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0081b3e7b8b9ac4e84303378b3921b4
+      internalID: -601458401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_200
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 443
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f9131b1500655438b4fb944198a7d7
+      internalID: 562001740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_201
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 437
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81e7712cea5d7041812d3555305740a
+      internalID: -1622201137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_202
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 437
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e43631fc902d34da280bdd6a7a441c
+      internalID: 1798401136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_203
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 437
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5427e1cbd8ecb2f4a96b2b5ac1b1461f
+      internalID: 1680522962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_204
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 443
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4f90e56f34a6b4faeca77bae6db2bf
+      internalID: 1139545439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_205
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 445
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5613602696d284e8b4c7c5f6bebec2
+      internalID: 250223542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_206
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 431
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc60da5b595836d4bb98a0c7c1076c75
+      internalID: 2102569097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_207
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 450
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b932c9836c484f9f66bd2b35c3c5f
+      internalID: 1597760554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_208
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 435
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c99920c16e60445956a3a73fde08ca
+      internalID: -1446544983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_209
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 440
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ed9ebe50b049842a6d6475db6e7d99
+      internalID: 1312671880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_210
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 437
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e662b9bf8ca66345be4953405e59e55
+      internalID: 1873595307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_211
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 435
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8bff74e2890394b9a2ebef74a3e844
+      internalID: 1654625702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_212
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 435
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58183761eedb5e74185e9154e036ac12
+      internalID: 171062644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 193
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7211510ccb1914f4289d7547ea87d343
+      internalID: 922640235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_214
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 335
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a470c98924b6ca545a6bca569081502c
+      internalID: -1148957848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_215
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 335
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3c672c47832be4cbf89f944eebd7b8
+      internalID: 1945830748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_216
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 335
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a6e03aaad9c33408b7ce30d91c4824
+      internalID: -197577143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_217
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 335
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7e2562c14c7b24eb7bb68cb2e79b4c
+      internalID: 1939661442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_218
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 335
+        width: 242
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fe8890e4335ac47a7be136669d7766
+      internalID: 1449962363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_219
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 335
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706483e38d3c2b246b77736ba22938d7
+      internalID: -988951433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_220
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 335
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfafc5021a5d0642ad03c9a122cd866
+      internalID: 215727924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 289
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34722a4c69f30f84ab076ca42237105b
+      internalID: -1691583879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_222
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 239
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f78f0c5ae3d3f44f9da01efa70d4974
+      internalID: 407153840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_223
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 239
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982d9faee61b54e4384090193abc712b
+      internalID: -1856807665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_224
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 239
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dae9055217de345bd02b480c64335e
+      internalID: 488386731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_225
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 239
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30ad8af613e74f4b9dd2f7a4182f7a7
+      internalID: 1318535020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_226
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 239
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a330862bc97d347b1c6c1a20ee65f0
+      internalID: -311510005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_227
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 239
+        width: 335
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6951d917a3dc6634fb5ca03259dd7724
+      internalID: -1995801862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_228
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 239
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921561960a4e7ab44b0bf948e2703ba9
+      internalID: 168339311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_229
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 239
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2530c666321494f924ebe01e2d48dd
+      internalID: 1767451030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_230
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 239
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c592697aa0ccfcf419925c814428d4c3
+      internalID: 404796983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_231
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 239
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab063a31f524b94e9cf83fc315d40fb
+      internalID: -2029777519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_232
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 239
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8405b92b2601f9479d3b321cae06107
+      internalID: 379698821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_233
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 239
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ba8a05c75bcce4fb1ffdef1c927663
+      internalID: 2012538977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 145
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615ffa4626dd72240b12f38d0b131f4c
+      internalID: 898695292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_235
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 143
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023cca47deedc4e4f9b73f6b165e5884
+      internalID: 1044973087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_236
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 143
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58469ea43d3ade748951911f89a0f11b
+      internalID: 1445192658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_237
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 143
+        width: 191
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d120c4d0e19e5469272a04f118fb3c
+      internalID: 1476024871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_238
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 143
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6952abe88569d49bcab3bafe414695
+      internalID: -404482398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_239
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 143
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8a59dd35a691e4fab9615c503c7590
+      internalID: -2039095435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_240
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 143
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90dd8caf082d744b98ea9303178c685
+      internalID: -904734843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_241
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 164
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e894ae33b2b830f4692c7272a36ffb30
+      internalID: 1996246553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_242
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 145
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68b00e8e1fadbc4a9cc844d68d95d61
+      internalID: -408037544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_243
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 48
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f430cbb648b444299c9a5fc1d60519
+      internalID: -1378075469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_244
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893efc250ac9f3d468034f22053eae78
+      internalID: -2047322378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_245
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 48
+        width: 338
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68982d36462478b4c9b4d2fdf65ba9f5
+      internalID: -445951159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_246
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 68
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75815f4e0847cb14da965c27caac06bf
+      internalID: 1627543286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1686
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779b3a38d21fdab42bcf107fdee5cb24
+      internalID: 486227137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_247
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1680
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370d863774703f243affff37a639b3ca
+      internalID: -1349848259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1679
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1976f379cf5195459e782ed0e9ce58b
+      internalID: 1263938927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_249
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1681
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8db06ebf96bd9438b41f9fe086117c
+      internalID: -1283994995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_250
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1683
+        width: 47
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4890798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7b9a5e18ee29d439d1d28146934fff
+      internalID: -137038073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_251
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1682
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e446b25b9decf4c4193fcc67ba9a29f7
+      internalID: -176167839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_252
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1682
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08982bba91786e46add18c13c554ef9
+      internalID: -682081775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_253
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1680
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652b95c838a94804fbfc262300755617
+      internalID: -1649195442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_254
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1679
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd8b9cb0634f7145a09358fec8cb48e
+      internalID: 598392895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_255
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1681
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef60adeb07877248a48a675eda49bb7
+      internalID: -1998278077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_256
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1681
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5742eee393f8a7547b0310c8949e8197
+      internalID: 1888366682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_257
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1680
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fd7aa6dff7e2a4c94f3cef502a4f26
+      internalID: 1072109903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_258
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1681
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cbd02d38eeb7b45b092f05d528f2dc
+      internalID: 811834272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_259
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1682
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12f752006d29bd4aa4bcce9c7414ec0
+      internalID: 1288112421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_260
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1682
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67d11dba95fbb54bb03146cdc7a8bbc
+      internalID: 1126415883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_261
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1682
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3e90ff9e9abd641a7c6b978a5a2ca2
+      internalID: 74129765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_262
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1682
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f6dce7cc201054aa2c1b730fcb120f
+      internalID: -981804029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Exteriors_Characters_Scout_48x48_1_263
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1682
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fe11f4103247e448abb29e60bed61e
+      internalID: -1887670455
       vertices: []
       indices: 
       edges: []
@@ -225,10 +5706,274 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      idle_behind: 1104336405
+      Modern_Exteriors_Characters_Scout_48x48_1_59: -366795952
+      Modern_Exteriors_Characters_Scout_48x48_1_116: -926080575
+      Modern_Exteriors_Characters_Scout_48x48_1_196: -279145028
+      Modern_Exteriors_Characters_Scout_48x48_1_224: 488386731
+      Modern_Exteriors_Characters_Scout_48x48_1_101: -1686050118
+      Modern_Exteriors_Characters_Scout_48x48_1_68: 761248051
+      Modern_Exteriors_Characters_Scout_48x48_1_72: 753679825
+      Modern_Exteriors_Characters_Scout_48x48_1_249: -1283994995
+      Modern_Exteriors_Characters_Scout_48x48_1_179: 96464238
+      Modern_Exteriors_Characters_Scout_48x48_1_2: 1605341731
+      Modern_Exteriors_Characters_Scout_48x48_1_184: 1096272996
+      Modern_Exteriors_Characters_Scout_48x48_1_10: -1763623660
+      Modern_Exteriors_Characters_Scout_48x48_1_18: 1465026946
+      Modern_Exteriors_Characters_Scout_48x48_1_250: -137038073
+      Modern_Exteriors_Characters_Scout_48x48_1_126: -348212475
+      Modern_Exteriors_Characters_Scout_48x48_1_73: -346872663
+      Modern_Exteriors_Characters_Scout_48x48_1_173: -2057345496
+      Modern_Exteriors_Characters_Scout_48x48_1_135: 1515548008
+      Modern_Exteriors_Characters_Scout_48x48_1_53: -226799792
+      Modern_Exteriors_Characters_Scout_48x48_1_172: -318892313
+      Modern_Exteriors_Characters_Scout_48x48_1_244: -2047322378
+      Modern_Exteriors_Characters_Scout_48x48_1_225: 1318535020
+      Modern_Exteriors_Characters_Scout_48x48_1_115: 1148399064
+      Modern_Exteriors_Characters_Scout_48x48_1_227: -1995801862
+      Modern_Exteriors_Characters_Scout_48x48_1_17: 713001281
+      Modern_Exteriors_Characters_Scout_48x48_1_44: 274610913
+      Modern_Exteriors_Characters_Scout_48x48_1_165: -796513267
+      Modern_Exteriors_Characters_Scout_48x48_1_4: 486227137
+      Modern_Exteriors_Characters_Scout_48x48_1_192: -1188290581
+      Modern_Exteriors_Characters_Scout_48x48_1_153: -743565609
+      Modern_Exteriors_Characters_Scout_48x48_1_183: -1570144284
+      Modern_Exteriors_Characters_Scout_48x48_1_143: -350030482
+      Modern_Exteriors_Characters_Scout_48x48_1_60: -1235470760
+      Modern_Exteriors_Characters_Scout_48x48_1_221: -1691583879
+      Modern_Exteriors_Characters_Scout_48x48_1_147: -1073270639
+      Modern_Exteriors_Characters_Scout_48x48_1_85: -1310205219
+      Modern_Exteriors_Characters_Scout_48x48_1_228: 168339311
+      Modern_Exteriors_Characters_Scout_48x48_1_248: 1263938927
+      Modern_Exteriors_Characters_Scout_48x48_1_15: -1449345709
+      Modern_Exteriors_Characters_Scout_48x48_1_255: -1998278077
+      Modern_Exteriors_Characters_Scout_48x48_1_58: 1019357165
+      Modern_Exteriors_Characters_Scout_48x48_1_144: 311197209
+      Modern_Exteriors_Characters_Scout_48x48_1_236: 1445192658
+      Modern_Exteriors_Characters_Scout_48x48_1_159: -1481892197
+      Modern_Exteriors_Characters_Scout_48x48_1_20: 1095271026
+      Modern_Exteriors_Characters_Scout_48x48_1_256: 1888366682
+      Modern_Exteriors_Characters_Scout_48x48_1_152: -1024207153
+      Modern_Exteriors_Characters_Scout_48x48_1_226: -311510005
+      Modern_Exteriors_Characters_Scout_48x48_1_69: -889088088
+      Modern_Exteriors_Characters_Scout_48x48_1_75: -550475207
+      Modern_Exteriors_Characters_Scout_48x48_1_91: 1519070287
+      Modern_Exteriors_Characters_Scout_48x48_1_241: 1996246553
+      Modern_Exteriors_Characters_Scout_48x48_1_42: 1475444497
+      Modern_Exteriors_Characters_Scout_48x48_1_52: -1734395671
+      Modern_Exteriors_Characters_Scout_48x48_1_89: 902750149
+      Modern_Exteriors_Characters_Scout_48x48_1_158: -1733221305
+      Modern_Exteriors_Characters_Scout_48x48_1_262: -981804029
+      Modern_Exteriors_Characters_Scout_48x48_1_88: 686308483
+      Modern_Exteriors_Characters_Scout_48x48_1_145: 312644012
+      Modern_Exteriors_Characters_Scout_48x48_1_198: 59443450
+      Modern_Exteriors_Characters_Scout_48x48_1_50: 1126502473
+      Modern_Exteriors_Characters_Scout_48x48_1_117: -820468112
+      Modern_Exteriors_Characters_Scout_48x48_1_211: 1654625702
+      Modern_Exteriors_Characters_Scout_48x48_1_80: -2025686419
+      Modern_Exteriors_Characters_Scout_48x48_1_125: 634926193
+      Modern_Exteriors_Characters_Scout_48x48_1_119: -741027024
+      Modern_Exteriors_Characters_Scout_48x48_1_180: -772346566
+      Modern_Exteriors_Characters_Scout_48x48_1_235: 1044973087
+      Modern_Exteriors_Characters_Scout_48x48_1_45: -630412811
       idle_right: -649743166
+      Modern_Exteriors_Characters_Scout_48x48_1_40: 1298167830
+      Modern_Exteriors_Characters_Scout_48x48_1_93: 1941662483
+      Modern_Exteriors_Characters_Scout_48x48_1_31: 62971280
+      Modern_Exteriors_Characters_Scout_48x48_1_104: 1159584299
+      Modern_Exteriors_Characters_Scout_48x48_1_122: -308322777
+      Modern_Exteriors_Characters_Scout_48x48_1_169: 1645631469
       idle_front: -761725340
+      Modern_Exteriors_Characters_Scout_48x48_1_132: -1073487992
+      Modern_Exteriors_Characters_Scout_48x48_1_57: -718111472
+      Modern_Exteriors_Characters_Scout_48x48_1_23: 1980263148
+      Modern_Exteriors_Characters_Scout_48x48_1_70: 1855986275
+      Modern_Exteriors_Characters_Scout_48x48_1_188: 1819955404
+      Modern_Exteriors_Characters_Scout_48x48_1_78: -1500136606
+      Modern_Exteriors_Characters_Scout_48x48_1_155: -1499328837
+      Modern_Exteriors_Characters_Scout_48x48_1_168: 51201769
+      Modern_Exteriors_Characters_Scout_48x48_1_161: 146936204
+      Modern_Exteriors_Characters_Scout_48x48_1_238: -404482398
+      Modern_Exteriors_Characters_Scout_48x48_1_43: 1352513868
+      Modern_Exteriors_Characters_Scout_48x48_1_47: 1506288215
+      Modern_Exteriors_Characters_Scout_48x48_1_258: 811834272
+      Modern_Exteriors_Characters_Scout_48x48_1_97: 2001891864
+      Modern_Exteriors_Characters_Scout_48x48_1_166: 1075641651
+      Modern_Exteriors_Characters_Scout_48x48_1_148: -574017268
+      Modern_Exteriors_Characters_Scout_48x48_1_206: 2102569097
+      Modern_Exteriors_Characters_Scout_48x48_1_19: 1748065518
+      Modern_Exteriors_Characters_Scout_48x48_1_171: -997280892
+      Modern_Exteriors_Characters_Scout_48x48_1_216: -197577143
+      Modern_Exteriors_Characters_Scout_48x48_1_100: 1708040030
+      Modern_Exteriors_Characters_Scout_48x48_1_261: 74129765
+      Modern_Exteriors_Characters_Scout_48x48_1_98: 1099286913
+      Modern_Exteriors_Characters_Scout_48x48_1_1: -1493661759
+      Modern_Exteriors_Characters_Scout_48x48_1_51: 1656359303
+      Modern_Exteriors_Characters_Scout_48x48_1_54: 1948189420
+      Modern_Exteriors_Characters_Scout_48x48_1_96: -1651515690
+      Modern_Exteriors_Characters_Scout_48x48_1_220: 215727924
+      Modern_Exteriors_Characters_Scout_48x48_1_28: -1790877339
+      Modern_Exteriors_Characters_Scout_48x48_1_25: -650867588
+      Modern_Exteriors_Characters_Scout_48x48_1_127: 887621597
+      Modern_Exteriors_Characters_Scout_48x48_1_218: 1449962363
+      Modern_Exteriors_Characters_Scout_48x48_1_177: 181288313
+      Modern_Exteriors_Characters_Scout_48x48_1_0: 1165848153
+      Modern_Exteriors_Characters_Scout_48x48_1_34: 558123866
+      Modern_Exteriors_Characters_Scout_48x48_1_49: 1141293241
+      Modern_Exteriors_Characters_Scout_48x48_1_86: 941950433
+      Modern_Exteriors_Characters_Scout_48x48_1_197: 2145760509
+      Modern_Exteriors_Characters_Scout_48x48_1_39: -2048149980
+      Modern_Exteriors_Characters_Scout_48x48_1_142: 1971227199
+      Modern_Exteriors_Characters_Scout_48x48_1_103: 1773219459
+      Modern_Exteriors_Characters_Scout_48x48_1_176: -1835746314
+      Modern_Exteriors_Characters_Scout_48x48_1_112: -1361958470
+      Modern_Exteriors_Characters_Scout_48x48_1_84: 496041948
+      Modern_Exteriors_Characters_Scout_48x48_1_213: 922640235
+      Modern_Exteriors_Characters_Scout_48x48_1_82: -472321459
+      Modern_Exteriors_Characters_Scout_48x48_1_133: -1940030629
+      Modern_Exteriors_Characters_Scout_48x48_1_33: -1749835814
+      Modern_Exteriors_Characters_Scout_48x48_1_190: 199905915
+      Modern_Exteriors_Characters_Scout_48x48_1_237: 1476024871
+      Modern_Exteriors_Characters_Scout_48x48_1_65: 688136732
+      idle_behind: 1104336405
+      Modern_Exteriors_Characters_Scout_48x48_1_167: -1124186757
+      Modern_Exteriors_Characters_Scout_48x48_1_150: -1927347934
+      Modern_Exteriors_Characters_Scout_48x48_1_186: 1683678282
+      Modern_Exteriors_Characters_Scout_48x48_1_156: -1249235079
+      Modern_Exteriors_Characters_Scout_48x48_1_231: -2029777519
+      Modern_Exteriors_Characters_Scout_48x48_1_105: 582463203
+      Modern_Exteriors_Characters_Scout_48x48_1_6: -1353955143
+      Modern_Exteriors_Characters_Scout_48x48_1_164: 607809301
+      Modern_Exteriors_Characters_Scout_48x48_1_243: -1378075469
+      Modern_Exteriors_Characters_Scout_48x48_1_87: -1205485033
+      Modern_Exteriors_Characters_Scout_48x48_1_139: 731822522
+      Modern_Exteriors_Characters_Scout_48x48_1_71: 166520692
+      Modern_Exteriors_Characters_Scout_48x48_1_63: 361400331
+      Modern_Exteriors_Characters_Scout_48x48_1_207: 1597760554
+      Modern_Exteriors_Characters_Scout_48x48_1_24: -844022190
+      Modern_Exteriors_Characters_Scout_48x48_1_140: -1877971776
+      Modern_Exteriors_Characters_Scout_48x48_1_76: -464433301
+      Modern_Exteriors_Characters_Scout_48x48_1_79: 1042138288
+      Modern_Exteriors_Characters_Scout_48x48_1_174: -1470735333
+      Modern_Exteriors_Characters_Scout_48x48_1_83: 849029867
+      Modern_Exteriors_Characters_Scout_48x48_1_107: 1372748528
+      Modern_Exteriors_Characters_Scout_48x48_1_253: -1649195442
+      Modern_Exteriors_Characters_Scout_48x48_1_260: 1126415883
+      Modern_Exteriors_Characters_Scout_48x48_1_138: 272890644
       idle_left: 1284238839
+      Modern_Exteriors_Characters_Scout_48x48_1_95: 1568062541
+      Modern_Exteriors_Characters_Scout_48x48_1_222: 407153840
+      Modern_Exteriors_Characters_Scout_48x48_1_137: 88310626
+      Modern_Exteriors_Characters_Scout_48x48_1_16: 169895420
+      Modern_Exteriors_Characters_Scout_48x48_1_48: -1671040136
+      Modern_Exteriors_Characters_Scout_48x48_1_162: 1440249391
+      Modern_Exteriors_Characters_Scout_48x48_1_151: -465653646
+      Modern_Exteriors_Characters_Scout_48x48_1_157: -991044141
+      Modern_Exteriors_Characters_Scout_48x48_1_187: -1288990667
+      Modern_Exteriors_Characters_Scout_48x48_1_62: -777335292
+      Modern_Exteriors_Characters_Scout_48x48_1_111: -1784379130
+      Modern_Exteriors_Characters_Scout_48x48_1_36: -466428586
+      Modern_Exteriors_Characters_Scout_48x48_1_251: -176167839
+      Modern_Exteriors_Characters_Scout_48x48_1_22: 1443649546
+      Modern_Exteriors_Characters_Scout_48x48_1_55: -256904532
+      Modern_Exteriors_Characters_Scout_48x48_1_230: 404796983
+      Modern_Exteriors_Characters_Scout_48x48_1_234: 898695292
+      Modern_Exteriors_Characters_Scout_48x48_1_66: -1553643474
+      Modern_Exteriors_Characters_Scout_48x48_1_154: 1242931860
+      Modern_Exteriors_Characters_Scout_48x48_1_259: 1288112421
+      Modern_Exteriors_Characters_Scout_48x48_1_92: -1057888693
+      Modern_Exteriors_Characters_Scout_48x48_1_106: -1066800833
+      Modern_Exteriors_Characters_Scout_48x48_1_245: -445951159
+      Modern_Exteriors_Characters_Scout_48x48_1_203: 1680522962
+      Modern_Exteriors_Characters_Scout_48x48_1_146: -237797769
+      Modern_Exteriors_Characters_Scout_48x48_1_252: -682081775
+      Modern_Exteriors_Characters_Scout_48x48_1_239: -2039095435
+      Modern_Exteriors_Characters_Scout_48x48_1_118: -1279132594
+      Modern_Exteriors_Characters_Scout_48x48_1_3: 1220840514
+      Modern_Exteriors_Characters_Scout_48x48_1_9: 408588325
+      Modern_Exteriors_Characters_Scout_48x48_1_141: -1754860125
+      Modern_Exteriors_Characters_Scout_48x48_1_215: 1945830748
+      Modern_Exteriors_Characters_Scout_48x48_1_193: 2095387658
+      Modern_Exteriors_Characters_Scout_48x48_1_160: 1910092732
+      Modern_Exteriors_Characters_Scout_48x48_1_194: 206709285
+      Modern_Exteriors_Characters_Scout_48x48_1_90: -1582724620
+      Modern_Exteriors_Characters_Scout_48x48_1_99: -1434638448
+      Modern_Exteriors_Characters_Scout_48x48_1_41: -1809839963
+      Modern_Exteriors_Characters_Scout_48x48_1_8: 1697513067
+      Modern_Exteriors_Characters_Scout_48x48_1_124: 1525679323
+      Modern_Exteriors_Characters_Scout_48x48_1_163: -374254004
+      Modern_Exteriors_Characters_Scout_48x48_1_81: -962626956
+      Modern_Exteriors_Characters_Scout_48x48_1_170: 780972113
+      Modern_Exteriors_Characters_Scout_48x48_1_123: -908472405
+      Modern_Exteriors_Characters_Scout_48x48_1_109: -1750006081
+      Modern_Exteriors_Characters_Scout_48x48_1_204: 1139545439
+      Modern_Exteriors_Characters_Scout_48x48_1_219: -988951433
+      Modern_Exteriors_Characters_Scout_48x48_1_240: -904734843
+      Modern_Exteriors_Characters_Scout_48x48_1_108: -1221815920
+      Modern_Exteriors_Characters_Scout_48x48_1_191: -126419526
+      Modern_Exteriors_Characters_Scout_48x48_1_13: -2137599074
+      Modern_Exteriors_Characters_Scout_48x48_1_37: -284193378
+      Modern_Exteriors_Characters_Scout_48x48_1_38: 692089177
+      Modern_Exteriors_Characters_Scout_48x48_1_77: 1847690359
+      Modern_Exteriors_Characters_Scout_48x48_1_134: 254012836
+      Modern_Exteriors_Characters_Scout_48x48_1_21: 1200073285
+      Modern_Exteriors_Characters_Scout_48x48_1_199: -601458401
+      Modern_Exteriors_Characters_Scout_48x48_1_210: 1873595307
+      Modern_Exteriors_Characters_Scout_48x48_1_74: 1777491095
+      Modern_Exteriors_Characters_Scout_48x48_1_64: 1890663773
+      Modern_Exteriors_Characters_Scout_48x48_1_129: -1131069260
+      Modern_Exteriors_Characters_Scout_48x48_1_12: 170789241
+      Modern_Exteriors_Characters_Scout_48x48_1_94: -1629285662
+      Modern_Exteriors_Characters_Scout_48x48_1_200: 562001740
+      Modern_Exteriors_Characters_Scout_48x48_1_110: -680505033
+      Modern_Exteriors_Characters_Scout_48x48_1_208: -1446544983
+      Modern_Exteriors_Characters_Scout_48x48_1_182: -711289570
+      Modern_Exteriors_Characters_Scout_48x48_1_217: 1939661442
+      Modern_Exteriors_Characters_Scout_48x48_1_131: -1922905916
+      Modern_Exteriors_Characters_Scout_48x48_1_121: 1258152626
+      Modern_Exteriors_Characters_Scout_48x48_1_185: 1363225265
+      Modern_Exteriors_Characters_Scout_48x48_1_205: 250223542
+      Modern_Exteriors_Characters_Scout_48x48_1_56: 1086098661
+      Modern_Exteriors_Characters_Scout_48x48_1_113: -162239352
+      Modern_Exteriors_Characters_Scout_48x48_1_32: 1646363602
+      Modern_Exteriors_Characters_Scout_48x48_1_229: 1767451030
+      Modern_Exteriors_Characters_Scout_48x48_1_175: -1287019884
+      Modern_Exteriors_Characters_Scout_48x48_1_202: 1798401136
+      Modern_Exteriors_Characters_Scout_48x48_1_178: 957076172
+      Modern_Exteriors_Characters_Scout_48x48_1_209: 1312671880
+      Modern_Exteriors_Characters_Scout_48x48_1_242: -408037544
+      Modern_Exteriors_Characters_Scout_48x48_1_30: 581423071
+      Modern_Exteriors_Characters_Scout_48x48_1_136: -448335625
+      Modern_Exteriors_Characters_Scout_48x48_1_246: 1627543286
+      Modern_Exteriors_Characters_Scout_48x48_1_212: 171062644
+      Modern_Exteriors_Characters_Scout_48x48_1_149: -1115230408
+      Modern_Exteriors_Characters_Scout_48x48_1_189: -1959777375
+      Modern_Exteriors_Characters_Scout_48x48_1_120: 1150336987
+      Modern_Exteriors_Characters_Scout_48x48_1_233: 2012538977
+      Modern_Exteriors_Characters_Scout_48x48_1_27: 2036408185
+      Modern_Exteriors_Characters_Scout_48x48_1_114: 638184132
+      Modern_Exteriors_Characters_Scout_48x48_1_102: 894789322
+      Modern_Exteriors_Characters_Scout_48x48_1_214: -1148957848
+      Modern_Exteriors_Characters_Scout_48x48_1_29: -1057062523
+      Modern_Exteriors_Characters_Scout_48x48_1_67: 1291516592
+      Modern_Exteriors_Characters_Scout_48x48_1_181: 1334591677
+      Modern_Exteriors_Characters_Scout_48x48_1_5: 110899465
+      Modern_Exteriors_Characters_Scout_48x48_1_11: -528185772
+      Modern_Exteriors_Characters_Scout_48x48_1_254: 598392895
+      Modern_Exteriors_Characters_Scout_48x48_1_263: -1887670455
+      Modern_Exteriors_Characters_Scout_48x48_1_14: 1225323545
+      Modern_Exteriors_Characters_Scout_48x48_1_195: 114346974
+      Modern_Exteriors_Characters_Scout_48x48_1_128: 879258165
+      Modern_Exteriors_Characters_Scout_48x48_1_35: 1913150775
+      Modern_Exteriors_Characters_Scout_48x48_1_232: 379698821
+      Modern_Exteriors_Characters_Scout_48x48_1_46: -796136367
+      Modern_Exteriors_Characters_Scout_48x48_1_7: 120777215
+      Modern_Exteriors_Characters_Scout_48x48_1_247: -1349848259
+      Modern_Exteriors_Characters_Scout_48x48_1_130: -1824539264
+      Modern_Exteriors_Characters_Scout_48x48_1_201: -1622201137
+      Modern_Exteriors_Characters_Scout_48x48_1_26: 2058486581
+      Modern_Exteriors_Characters_Scout_48x48_1_61: -1644622154
+      Modern_Exteriors_Characters_Scout_48x48_1_257: 1072109903
+      Modern_Exteriors_Characters_Scout_48x48_1_223: -1856807665
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
