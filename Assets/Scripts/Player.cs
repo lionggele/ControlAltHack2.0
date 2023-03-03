@@ -72,9 +72,7 @@ public class Player : MonoBehaviour
         if (m_moveInput != Vector2.zero)
         {
             animator.SetFloat("Xinput", m_moveInput.x);
-            //Debug.Log(m_moveInput.x +"x");
-            animator.SetFloat("Yinput", m_moveInput.y);
-            Debug.Log(m_moveInput.y +"y");
+            animator.SetFloat("Yinput", m_moveInput.y);            
         }
         
     }
