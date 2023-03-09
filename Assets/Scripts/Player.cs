@@ -5,10 +5,22 @@ using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
-    public float m_moveSpeed = 1f;
+    public float m_moveSpeed = 2f;
     private Animator animator;
     Vector2 m_moveInput;
     Rigidbody2D m_rb;
+
+    /*
+    bool isWalking {
+        set{
+            isWalking = value;
+            //animator.SetBool("isWalking",isWalking);
+        }
+        get { return isWalking; }
+
+    
+    }
+    */
 
     void Start()
     {
@@ -26,6 +38,31 @@ public class Player : MonoBehaviour
     {
          //m_rb.velocity = m_moveInput * m_moveSpeed;
         m_rb.MovePosition(m_rb.position + m_moveInput * m_moveSpeed * Time.fixedDeltaTime);
+        
+        
+        if (m_moveInput != Vector2.zero){
+            /*
+                       
+            bool success = OnMove();
+            if(!success)
+            {
+                success = OnMove(new Vector2(m_moveInput.x,0));
+                if(!success)
+                {
+                    success = OnMove(new Vector2(0,m_moveInput.y));
+                }
+
+            }
+            */
+            m_rb.MovePosition(m_rb.position + m_moveInput * m_moveSpeed * Time.fixedDeltaTime);
+            animator.SetBool("isWalking",true);
+        }
+        else{
+            animator.SetBool("isWalking",false);
+        }
+
+
+    
     }
 
 
@@ -34,10 +71,8 @@ public class Player : MonoBehaviour
         m_moveInput = value.Get<Vector2>();
         if (m_moveInput != Vector2.zero)
         {
-            animator.SetFloat("XInput", m_moveInput.x);
-            Debug.Log(m_moveInput.x +"x");
-            animator.SetFloat("YInput", m_moveInput.y);
-            Debug.Log(m_moveInput.y +"y");
+            animator.SetFloat("Xinput", m_moveInput.x);
+            animator.SetFloat("Yinput", m_moveInput.y);            
         }
         
     }
