@@ -7,6 +7,7 @@ TagManager:
   - Walls
   - Flag
   - Enemies
+  - player
   layers:
   - Default
   - TransparentFX
@@ -47,9 +48,12 @@ TagManager:
   - name: maze
     uniqueID: 2799398299
     locked: 0
+  - name: player
+    uniqueID: 1294503341
+    locked: 0
   - name: wall
     uniqueID: 4042815539
     locked: 0
-  - name: 
+  - name: sign
     uniqueID: 491252157
     locked: 0

@@ -2804,7 +2804,7 @@ TextureImporter:
         height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 12, y: 11, z: 12, w: 12}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -3057,6 +3057,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      objects_127: 1237055486
       objects_118: 942394607
       objects_98: 1605133141
       objects_84: 1266935104
@@ -3072,7 +3073,6 @@ TextureImporter:
       objects_41: -824309502
       objects_89: -597110575
       objects_109: -417627958
-      objects_128: 941923724
       objects_3: -1723811031
       objects_119: 2061962128
       objects_18: 443832715
@@ -3121,9 +3121,9 @@ TextureImporter:
       objects_131: 2051316809
       objects_104: -1559889188
       objects_107: 35496055
-      objects_87: 1955887463
       objects_80: -1574029069
       objects_7: -410004195
+      objects_87: 1955887463
       objects_22: -403976405
       objects_47: 362776401
       objects_42: 806073239
@@ -3195,9 +3195,9 @@ TextureImporter:
       objects_111: 1392741206
       objects_61: 1084376595
       objects_88: -1948921427
-      objects_127: 1237055486
       objects_4: 945576527
       objects_20: 589329144
+      objects_128: 941923724
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
