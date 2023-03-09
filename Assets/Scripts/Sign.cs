@@ -10,7 +10,8 @@ public class Sign : MonoBehaviour{
     public GameObject dialogBox;
     public TMP_Text dialogText;
     public string dialog;
-    public bool dialogAcitve;
+    //public bool playerInRange;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -18,7 +19,7 @@ public class Sign : MonoBehaviour{
 	
 	// Update is called once per frame
 	void Update () {
-        /*
+        
         if(Input.GetKeyDown(KeyCode.Space) && playerInRange)
         {
             if(dialogBox.activeInHierarchy)
@@ -29,12 +30,13 @@ public class Sign : MonoBehaviour{
                 dialogText.text = dialog;
             }
         }
-        */
+        
 	}
 
     void OnTriggerEnter2D(Collider2D other){
         if (other.CompareTag("player")){
             Debug.Log("Player enter range");
+            playerInRange = true;
         }
 
     }
@@ -44,11 +46,9 @@ public class Sign : MonoBehaviour{
     {
         if (other.CompareTag("player") /*&& !other.isTrigger*/)
         {
-            /*
-            context.Raise();
             playerInRange = false;
-            dialogBox.SetActive(false);
-            */
+            dialogBox.SetActive(false);  
+
             Debug.Log("P left range");
         }
     }
