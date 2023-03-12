@@ -14,6 +14,8 @@ public class QuizManager : MonoBehaviour
     public GameObject[] options;
     public int currentQuestion;
     public int questionsAnswered = 0;
+    public int cheat;
+    public string MajorName;
     int scores;
 
     public Text QuestionTxt;
@@ -41,12 +43,27 @@ public class QuizManager : MonoBehaviour
         for (int i = 0; i < options.Length; i++){
             options[i].GetComponent<AnswerScript>().isCorrect = false;
             options[i].transform.GetChild(0).GetComponent<Text>().text = QnA[currentQuestion].Answers[i];
+            options[i].transform.GetChild(0).GetComponent<Text>().color = Color.white;
 
             if(QnA[currentQuestion].CorrectAnswer == i+1){
                 options[i].GetComponent<AnswerScript>().isCorrect = true;
+                
             }
-        }
-    }
+
+            if(i==3 && QnA[currentQuestion].QuestionType == GetString(MajorName)){
+                cheat = Random.Range(1, 5);
+                
+                do{
+                    cheat = Random.Range(1, 5);
+                }
+                while(cheat == QnA[currentQuestion].CorrectAnswer);
+
+                options[cheat-1].transform.GetChild(0).GetComponent<Text>().color = Color.red;
+                options[cheat-1].transform.GetChild(0).GetComponent<Text>().text = "WRONG ANSWER >;D";        
+            }
+            
+        }    
+    } 
 
     void generateQuestion(){
         currentQuestion = Random.Range(0, QnA.Count);
@@ -63,5 +80,9 @@ public class QuizManager : MonoBehaviour
         Hashtable hash = new Hashtable();
         hash.Add("scores", scores);
         PhotonNetwork.LocalPlayer.SetCustomProperties(hash);
+    }
+
+    public string GetString(string MajorName){
+        return PlayerPrefs.GetString(MajorName);
     }
 }

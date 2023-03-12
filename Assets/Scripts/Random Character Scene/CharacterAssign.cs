@@ -7,17 +7,17 @@ public class CharacterAssign : MonoBehaviour
    
     public static string majorName;
     public string major;
-
-    void Start()
-    {
-        
-    }
+    public string MajorName;
 
     void Update()
     {
         major = majorName;
+        SetMajor(MajorName, major);
         SceneLoader.ConfirmedMajor = majorName;
     }
 
+    public void SetMajor(string MajorName, string major){
+        PlayerPrefs.SetString(MajorName, major);
+    }
 
 }

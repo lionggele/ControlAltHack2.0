@@ -2160,9 +2160,10 @@ MonoBehaviour:
     Answers:
     - Bruh
     - Bruh
-    - Satanic Quality Lube
+    - SQL
     - Bruh
     CorrectAnswer: 3
+    QuestionType: CC
   - Question: HUH?
     Answers:
     - '?'
@@ -2170,6 +2171,7 @@ MonoBehaviour:
     - H
     - ?UH
     CorrectAnswer: 2
+    QuestionType: DM
   - Question: Hi
     Answers:
     - hi <3
@@ -2177,6 +2179,7 @@ MonoBehaviour:
     - bye
     - bye
     CorrectAnswer: 1
+    QuestionType: HK
   - Question: What is up???
     Answers:
     - Not too good
@@ -2184,6 +2187,7 @@ MonoBehaviour:
     - good
     - good
     CorrectAnswer: 1
+    QuestionType: CC
   options:
   - {fileID: 370798800}
   - {fileID: 1221743880}
@@ -2191,6 +2195,8 @@ MonoBehaviour:
   - {fileID: 1383117106}
   currentQuestion: 0
   questionsAnswered: 0
+  cheat: 0
+  MajorName: 
   QuestionTxt: {fileID: 1063729096}
   sceneNameToLoad: Next Scene
 --- !u!4 &2015086856
