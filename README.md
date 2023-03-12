@@ -21,12 +21,13 @@
    - every correct answer get 1 point corresponding to player
    - press tab to view scoreboard
    - Timer to finish questions
+   - Kahoot questions communicates with Character Type. (Cheats)
 
 5. **Next scene**
    - carries scoreboard
 <br /><br />  
 - Soon to be implemented
-   - Kahoot questions communicates with Character Type
+   - Will add Quiz card type Texts (HK/CC/DM) on quiz style cards (Yr1)
    - Scores communicates with 1 winner + all losers in game over screen
    - Entropy Card claim and Entropy card usage
 <br /><br />
