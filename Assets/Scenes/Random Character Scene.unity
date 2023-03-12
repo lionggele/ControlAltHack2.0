@@ -802,7 +802,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   delayBeforeLoading: 5
-  sceneNameToLoad: Next Scene
+  sceneNameToLoad: Quizzes YR1
 --- !u!4 &1625562600
 Transform:
   m_ObjectHideFlags: 0

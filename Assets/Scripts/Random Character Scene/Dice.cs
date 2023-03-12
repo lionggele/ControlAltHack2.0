@@ -57,7 +57,7 @@ public class Dice : MonoBehaviour {
         finalSide = randomDiceSide + 1;
 
         ThisCard.diceNum = finalSide;
-        SceneLoader.confirm = finalSide;
+        //SceneLoader.confirm = finalSide;
     }
 
 }

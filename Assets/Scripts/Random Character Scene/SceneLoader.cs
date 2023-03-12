@@ -10,11 +10,11 @@ public class SceneLoader : MonoBehaviour
     [SerializeField]
     private string sceneNameToLoad;
 
-    public static int confirm;
+    public static string ConfirmedMajor;
     private float timeElapsed;
 
     private void Update(){
-        if (confirm != 0){
+        if (ConfirmedMajor != null){
         timeElapsed += Time.deltaTime;
         }
 

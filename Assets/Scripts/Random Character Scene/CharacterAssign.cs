@@ -16,6 +16,7 @@ public class CharacterAssign : MonoBehaviour
     void Update()
     {
         major = majorName;
+        SceneLoader.ConfirmedMajor = majorName;
     }
 
 
