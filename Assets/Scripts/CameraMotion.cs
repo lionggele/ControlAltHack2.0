@@ -7,7 +7,21 @@ public class CameraMotion : MonoBehaviour
     public Transform lookAt;
     public float boundX = 0.15f;
     public float boundY = 0.05f;
+    public Vector2 maxPosition;
+    public Vector2 minPosition;
 
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
     private void LateUpdate(){
         Vector3 delta = Vector3.zero;
 
@@ -34,20 +48,19 @@ public class CameraMotion : MonoBehaviour
                 delta.y = deltaY + boundY;
             }
         }
-        
         transform.position += new Vector3(delta.x,delta.y,0);
+    
+        if(transform.position != transform.position){
+            Vector3 targetPosition = new Vector3(delta.x,delta.y,0);
+            targetPosition.x = Mathf.Clamp(targetPosition.x,minPosition.x,maxPosition.x);
+            targetPosition.y = Mathf.Clamp(targetPosition.y,minPosition.y,maxPosition.y);
+
+
+        }
+
+        
     
     }
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

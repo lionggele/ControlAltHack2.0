@@ -5318,9 +5318,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'text
-
-'
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -8259,7 +8257,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &886840677
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14909,7 +14907,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1740971828}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 0.23, y: -9.27, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14974,6 +14972,8 @@ MonoBehaviour:
   lookAt: {fileID: 470930883}
   boundX: 0.2
   boundY: 0.1
+  maxPosition: {x: 18, y: -0.05}
+  minPosition: {x: 0.2, y: 0.92}
 --- !u!1 &1758921622
 GameObject:
   m_ObjectHideFlags: 0
@@ -19671,7 +19671,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4461676783470427367, guid: fc2dd714f1f018e40bccf614ab388ceb, type: 3}
       propertyPath: m_TagString
-      value: Untagged
+      value: player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19764,6 +19764,10 @@ PrefabInstance:
       propertyPath: dialogText
       value: 
       objectReference: {fileID: 633581657}
+    - target: {fileID: 5791386550631146575, guid: 10277644edf130f42912a0299d08271c, type: 3}
+      propertyPath: m_DefaultControlScheme
+      value: Keyboard&Mouse
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
