@@ -23,8 +23,12 @@
    - Timer to finish questions
    - Kahoot questions communicates with Character Type. (Cheats)
 
-5. **Next scene**
-   - carries scoreboard
+5. **Waiting End Scene**
+   - In case of players finishing early, they will need to wait for rest of the players to finish in Waiting End Scene
+
+6. **End Scene**
+   - If win, shows player as Winner, shows name + score
+   - If lose, shows player as Loser, shows name + score + winner's score
 <br /><br />  
 - Soon to be implemented
    - Entropy Card claim and Entropy card usage
