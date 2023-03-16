@@ -15,6 +15,7 @@ public class ThisCard : MonoBehaviour
     public string majorName;
 
     void Start(){
+        diceNum = 0;
         thisCard [0] = CardDatabase.cardList[thisId];
     }
 

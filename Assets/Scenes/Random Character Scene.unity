@@ -369,6 +369,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   major: 
+  MajorName: 
 --- !u!4 &575983673
 Transform:
   m_ObjectHideFlags: 0
@@ -801,7 +802,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06f1308292ca06a4faa14ec4a871d593, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delayBeforeLoading: 5
+  delayBeforeLoading: 3
   sceneNameToLoad: Quizzes YR1
 --- !u!4 &1625562600
 Transform:
