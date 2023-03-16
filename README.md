@@ -27,9 +27,9 @@
    - carries scoreboard
 <br /><br />  
 - Soon to be implemented
-   - Will add Quiz card type Texts (HK/CC/DM) on quiz style cards (Yr1)
-   - Scores communicates with 1 winner + all losers in game over screen
    - Entropy Card claim and Entropy card usage
+   
+- Merging scenes with others in progress
 <br /><br />
 top text
 <br /><br />
