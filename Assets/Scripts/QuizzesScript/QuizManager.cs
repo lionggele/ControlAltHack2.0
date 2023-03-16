@@ -19,6 +19,7 @@ public class QuizManager : MonoBehaviour
     int scores;
 
     public Text QuestionTxt;
+    public Text MajorType;
 
     [SerializeField]
     private string sceneNameToLoad;
@@ -49,6 +50,17 @@ public class QuizManager : MonoBehaviour
                 options[i].GetComponent<AnswerScript>().isCorrect = true;
                 
             }
+            
+            if(QnA[currentQuestion].QuestionType == "CC"){
+                MajorType.text = QnA[currentQuestion].QuestionType;
+                MajorType.color = new Color(0f/255f,232f/255f,240f/255f);
+            }else if(QnA[currentQuestion].QuestionType == "DM"){
+                MajorType.text = QnA[currentQuestion].QuestionType;
+                MajorType.color = new Color(0f/255f,255f/255f,171f/255f);
+            }else if(QnA[currentQuestion].QuestionType == "HK"){
+                MajorType.text = QnA[currentQuestion].QuestionType; 
+                MajorType.color = new Color(255f/255f,22f/255f,22f/255f);
+            }
 
             if(i==3 && QnA[currentQuestion].QuestionType == GetString(MajorName)){
                 cheat = Random.Range(1, 5);
@@ -59,7 +71,7 @@ public class QuizManager : MonoBehaviour
                 while(cheat == QnA[currentQuestion].CorrectAnswer);
 
                 options[cheat-1].transform.GetChild(0).GetComponent<Text>().color = Color.red;
-                options[cheat-1].transform.GetChild(0).GetComponent<Text>().text = "WRONG ANSWER >;D";        
+                options[cheat-1].transform.GetChild(0).GetComponent<Text>().text = "-";        
             }
             
         }    
