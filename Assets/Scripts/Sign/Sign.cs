@@ -18,6 +18,7 @@ public class Sign : MonoBehaviour{
     // Use this for initialization
     void Start () {
         dialogText.text = "";
+        gameObject.tag ="player";
 
         foreach (GameObject dialogBox in dialogBoxes) {
             dialogBox.SetActive(false);

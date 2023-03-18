@@ -12,7 +12,7 @@ public class Player : MonoBehaviour
 
     void Start()
     {
-        gameObject.tag="player";
+        //gameObject.tag="player";
         m_rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
     }
