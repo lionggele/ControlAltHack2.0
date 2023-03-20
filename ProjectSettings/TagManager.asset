@@ -8,6 +8,7 @@ TagManager:
   - Flag
   - Enemies
   - player
+  - Password
   layers:
   - Default
   - TransparentFX

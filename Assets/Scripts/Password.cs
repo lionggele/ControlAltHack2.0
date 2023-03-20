@@ -1,6 +1,8 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.InputSystem;
+
 
 public class InputExample : MonoBehaviour
 {
@@ -13,6 +15,10 @@ public class InputExample : MonoBehaviour
     {
         // Add listener to the button so that it calls SubmitInput() function when clicked
         submitButton.onClick.AddListener(SubmitInput);
+        InputSystem.DisableDevice(Keyboard.current);
+        userpage.SetActive(true);
+        
+        
     }
 
     void SubmitInput()
@@ -20,8 +26,12 @@ public class InputExample : MonoBehaviour
         // Save the user input in the userInput variable
         userInput = inputField.text;
 
-        // Clear the input field after submission
+        
         Debug.Log(inputField.text);
+        InputSystem.EnableDevice(Keyboard.current);
+    
+        userpage.SetActive(false);
+        //submitButton.SetActive(false);
         //inputField.SetActive(false);
         //userpage.SetActive(false);
 
