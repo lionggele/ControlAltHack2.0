@@ -407,8 +407,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1495568997
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: -904896993, guid: d9c8efbb751b0984d9a21ba5295ff00c, type: 3}
   m_Color: {r: 0.05660379, g: 0.04560343, b: 0.04560343, a: 1}
@@ -429,7 +429,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 95445227}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.68, y: 3.81, z: 0}
+  m_LocalPosition: {x: -7.752, y: 3.788, z: 0}
   m_LocalScale: {x: 0.8345, y: 0.6974, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -477,9 +477,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   flag: 0
   speed: 5
-  flagAmount: {fileID: 1457867854}
-  Escaped: {fileID: 2058225782}
-  door: {fileID: 191194506}
 --- !u!61 &95445232
 BoxCollider2D:
   m_ObjectHideFlags: 0

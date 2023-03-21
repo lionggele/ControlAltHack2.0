@@ -1,78 +1,48 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
-using UnityEngine.UI;
+using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
-    public int flag= 0;
-    public float speed = 5.0f;
+    public float m_moveSpeed = 2f;
+    private Animator animator;
+    Vector2 m_moveInput;
+    Rigidbody2D m_rb;
 
-    public Text flagAmount;
-    public Text Escaped;
-    public GameObject door;
-    // Start is called before the first frame update
     void Start()
     {
+        //gameObject.tag="player";
+        m_rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
+    }
+    void FixedUpdate()
+    {
+         //m_rb.velocity = m_moveInput * m_moveSpeed;
+        m_rb.MovePosition(m_rb.position + m_moveInput * m_moveSpeed * Time.fixedDeltaTime);
+        
+        
+        if (m_moveInput != Vector2.zero){
 
+            m_rb.MovePosition(m_rb.position + m_moveInput * m_moveSpeed * Time.fixedDeltaTime);
+            animator.SetBool("isWalking",true);
+        }
+        else{
+            animator.SetBool("isWalking",false);
+        }    
     }
 
-    // Update is called once per frame
-    void Update()
+    void OnMove(InputValue value)
     {
-        if (Input.GetKey(KeyCode.LeftArrow))
+        m_moveInput = value.Get<Vector2>();
+        if (m_moveInput != Vector2.zero)
         {
-            transform.Translate(-speed * Time.deltaTime, 0, 0);
-        }
-        if (Input.GetKey(KeyCode.RightArrow))
-        {
-            transform.Translate(speed * Time.deltaTime, 0, 0);
-        }
-        if (Input.GetKey(KeyCode.UpArrow))
-        {
-            transform.Translate(0, speed * Time.deltaTime, 0);
-        }
-        if (Input.GetKey(KeyCode.DownArrow))
-        {
-            transform.Translate(0, -speed * Time.deltaTime, 0);
+            animator.SetFloat("Xinput", m_moveInput.x);
+            animator.SetFloat("Yinput", m_moveInput.y);            
         }
         
-        if (flag == 3)
-        {
-            Destroy(door);
-        }
-       
-
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.tag == "Walls")
-        {
-            Debug.Log("hit");
-        }
-        
-        if (collision.gameObject.tag == "Flag")
-        {
-            flag++;
-            flagAmount.text = "Flag " + flag;
-            Destroy(collision.gameObject);
-        }
 
-        if (collision.gameObject.tag == "Enemies")
-        {
-            Debug.Log("hit enemy ");
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-        }
-
-   
-        if (collision.gameObject.tag == "Princess" || flag == 4)
-        {
-            Escaped.text = "ESCAPED";
-        }
-
-
-
-    }
 }
+ 
