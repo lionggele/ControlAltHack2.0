@@ -4,7 +4,7 @@ using TMPro;
 using UnityEngine.InputSystem;
 
 
-public class InputExample : MonoBehaviour
+public class Password : MonoBehaviour
 {
     public TMP_InputField inputField;
     public Button submitButton;
