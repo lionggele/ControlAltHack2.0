@@ -1076,11 +1076,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 5791386550631146553, guid: 10277644edf130f42912a0299d08271c, type: 3}
   m_PrefabInstance: {fileID: 5791386550294671751}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &122689414 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 783436207953252464, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-  m_PrefabInstance: {fileID: 556527538}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &123581935
 GameObject:
   m_ObjectHideFlags: 0
@@ -5487,61 +5482,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 886840680}
     m_Modifications:
-    - target: {fileID: 936462472, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-      propertyPath: m_TagString
-      value: Password
-      objectReference: {fileID: 0}
-    - target: {fileID: 936462477, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-      propertyPath: userpage
-      value: 
-      objectReference: {fileID: 122689414}
-    - target: {fileID: 1009521106, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-      propertyPath: m_TagString
-      value: Password
-      objectReference: {fileID: 0}
-    - target: {fileID: 1009521108, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1009521108, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 1009521108, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1009521106}
-    - target: {fileID: 1009521108, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1009521108, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: SetActive
-      objectReference: {fileID: 0}
-    - target: {fileID: 1009521108, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: UnityEngine.GameObject, UnityEngine
-      objectReference: {fileID: 0}
-    - target: {fileID: 1009521108, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1009521108, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Object, UnityEngine
-      objectReference: {fileID: 0}
-    - target: {fileID: 1806657198, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-      propertyPath: m_TagString
-      value: Password
-      objectReference: {fileID: 0}
     - target: {fileID: 783436207953252464, guid: bd71476a14478204fb6b102127329cb4, type: 3}
       propertyPath: m_Name
       value: UsernamePassowrd
-      objectReference: {fileID: 0}
-    - target: {fileID: 783436207953252464, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-      propertyPath: m_TagString
-      value: Password
       objectReference: {fileID: 0}
     - target: {fileID: 783436207953252465, guid: bd71476a14478204fb6b102127329cb4, type: 3}
       propertyPath: m_Pivot.x
@@ -5627,8 +5570,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 1009521111, guid: bd71476a14478204fb6b102127329cb4, type: 3}
+    - target: {fileID: 783436207953252478, guid: bd71476a14478204fb6b102127329cb4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f5355ad85459c724589a12a04a793042, type: 3}
+    m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -10097,11 +10043,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1009521106 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1009521106, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-  m_PrefabInstance: {fileID: 556527538}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1017942051
 GameObject:
   m_ObjectHideFlags: 0
@@ -13986,10 +13927,6 @@ PrefabInstance:
     - target: {fileID: 783436207953252464, guid: bd71476a14478204fb6b102127329cb4, type: 3}
       propertyPath: m_Name
       value: dialogBox (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 783436207953252464, guid: bd71476a14478204fb6b102127329cb4, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 783436207953252465, guid: bd71476a14478204fb6b102127329cb4, type: 3}
       propertyPath: m_Pivot.x

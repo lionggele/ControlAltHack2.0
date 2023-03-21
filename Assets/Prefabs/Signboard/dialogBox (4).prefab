@@ -171,7 +171,7 @@ GameObject:
   - component: {fileID: 936462477}
   m_Layer: 5
   m_Name: InputField (TMP)
-  m_TagString: Untagged
+  m_TagString: Password
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -348,7 +348,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inputField: {fileID: 936462474}
   submitButton: {fileID: 1009521108}
-  userpage: {fileID: 0}
+  userpage: {fileID: 783436207953252464}
   userInput: 
 --- !u!1 &1009521106
 GameObject:
@@ -362,10 +362,9 @@ GameObject:
   - component: {fileID: 1009521110}
   - component: {fileID: 1009521109}
   - component: {fileID: 1009521108}
-  - component: {fileID: 1009521111}
   m_Layer: 5
   m_Name: Button
-  m_TagString: Untagged
+  m_TagString: Password
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -472,10 +471,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1009521108}
-        m_TargetAssemblyTypeName: UnityEngine.UI.Selectable, UnityEngine.UI
-        m_MethodName: Select
-        m_Mode: 1
+      - m_Target: {fileID: 1009521106}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -484,22 +483,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 1
---- !u!114 &1009521111
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1009521106}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8c736941233c9b54aaa0282f47eca8ad, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  inputField: {fileID: 936462474}
-  submitButton: {fileID: 1009521108}
-  userpage: {fileID: 0}
-  userInput: 
 --- !u!1 &1806657198
 GameObject:
   m_ObjectHideFlags: 0
@@ -512,7 +495,7 @@ GameObject:
   - component: {fileID: 1806657200}
   m_Layer: 5
   m_Name: Text Area
-  m_TagString: Untagged
+  m_TagString: Password
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -701,7 +684,7 @@ GameObject:
   - component: {fileID: 783436207953252478}
   m_Layer: 5
   m_Name: dialogBox (4)
-  m_TagString: Untagged
+  m_TagString: Password
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -755,7 +738,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f5355ad85459c724589a12a04a793042, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 43d3cefdcee51cd49888e1185c2287e3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
