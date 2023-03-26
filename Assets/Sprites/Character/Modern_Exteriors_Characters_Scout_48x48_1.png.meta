@@ -138,8 +138,8 @@ TextureImporter:
         y: 1873
         width: 47
         height: 71
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.44739687, y: 0.5000017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5821,12 +5821,11 @@ TextureImporter:
       Modern_Exteriors_Characters_Scout_48x48_1_49: 1141293241
       Modern_Exteriors_Characters_Scout_48x48_1_86: 941950433
       Modern_Exteriors_Characters_Scout_48x48_1_197: 2145760509
+      Modern_Exteriors_Characters_Scout_48x48_1_84: 496041948
       Modern_Exteriors_Characters_Scout_48x48_1_39: -2048149980
-      Modern_Exteriors_Characters_Scout_48x48_1_142: 1971227199
       Modern_Exteriors_Characters_Scout_48x48_1_103: 1773219459
       Modern_Exteriors_Characters_Scout_48x48_1_176: -1835746314
       Modern_Exteriors_Characters_Scout_48x48_1_112: -1361958470
-      Modern_Exteriors_Characters_Scout_48x48_1_84: 496041948
       Modern_Exteriors_Characters_Scout_48x48_1_213: 922640235
       Modern_Exteriors_Characters_Scout_48x48_1_82: -472321459
       Modern_Exteriors_Characters_Scout_48x48_1_133: -1940030629
@@ -5834,6 +5833,7 @@ TextureImporter:
       Modern_Exteriors_Characters_Scout_48x48_1_190: 199905915
       Modern_Exteriors_Characters_Scout_48x48_1_237: 1476024871
       Modern_Exteriors_Characters_Scout_48x48_1_65: 688136732
+      Modern_Exteriors_Characters_Scout_48x48_1_142: 1971227199
       idle_behind: 1104336405
       Modern_Exteriors_Characters_Scout_48x48_1_167: -1124186757
       Modern_Exteriors_Characters_Scout_48x48_1_150: -1927347934
@@ -5843,8 +5843,8 @@ TextureImporter:
       Modern_Exteriors_Characters_Scout_48x48_1_105: 582463203
       Modern_Exteriors_Characters_Scout_48x48_1_6: -1353955143
       Modern_Exteriors_Characters_Scout_48x48_1_164: 607809301
-      Modern_Exteriors_Characters_Scout_48x48_1_243: -1378075469
       Modern_Exteriors_Characters_Scout_48x48_1_87: -1205485033
+      Modern_Exteriors_Characters_Scout_48x48_1_243: -1378075469
       Modern_Exteriors_Characters_Scout_48x48_1_139: 731822522
       Modern_Exteriors_Characters_Scout_48x48_1_71: 166520692
       Modern_Exteriors_Characters_Scout_48x48_1_63: 361400331

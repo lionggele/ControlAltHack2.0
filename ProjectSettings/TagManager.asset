@@ -9,6 +9,7 @@ TagManager:
   - Enemies
   - player
   - Password
+  - CommonChest
   layers:
   - Default
   - TransparentFX
@@ -57,4 +58,7 @@ TagManager:
     locked: 0
   - name: sign
     uniqueID: 491252157
+    locked: 0
+  - name: weapon
+    uniqueID: 3414456959
     locked: 0

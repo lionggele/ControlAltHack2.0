@@ -3,12 +3,19 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+public enum PlayerState{
+    walk,
+    attack,
+    interact,
+}
 public class Player : MonoBehaviour
 {
+    public PlayerState currentState;
     public float m_moveSpeed = 2f;
     private Animator animator;
     Vector2 m_moveInput;
     Rigidbody2D m_rb;
+    public KeyCode toggleKey = KeyCode.Space;
 
     void Start()
     {
@@ -21,6 +28,7 @@ public class Player : MonoBehaviour
          //m_rb.velocity = m_moveInput * m_moveSpeed;
         m_rb.MovePosition(m_rb.position + m_moveInput * m_moveSpeed * Time.fixedDeltaTime);
         
+
         
         if (m_moveInput != Vector2.zero){
 
@@ -31,6 +39,21 @@ public class Player : MonoBehaviour
             animator.SetBool("isWalking",false);
         }    
     }
+
+    void Update()
+    {
+        if (Input.GetKeyDown(toggleKey))
+        {
+            animator.SetBool("attacking",true);
+        
+        }
+        else
+        {
+            animator.SetBool("attacking",false);
+        }        
+    }
+
+ 
 
     void OnMove(InputValue value)
     {
@@ -45,4 +68,34 @@ public class Player : MonoBehaviour
 
 
 }
+        /*
+        if(Input.GetKeyDown(toggleKey))//&& currentState != PlayerState.attack)
+        {
+            Debug.Log(Input.GetButtonDown("attack"));
+            //StartCoroutine(AttackCo());
+            animator.SetBool("attacking",true);
+            //currentState = PlayerState.attack;
+
+        }
+        else 
+        {
+            //OnMove();
+            //Debug.Log("walk");
+            
+            animator.SetBool("attacking",false);
+            
+        }
+        */
+   /*
+
+    private IEnumerator AttackCo()
+    {
+        animator.SetBool("attacking",true);
+        //currentState = PlayerState.attack;
+        yield return null;
+        animator.SetBool("attacking",false);
+        yield return new WaitForSeconds(.1f);
+        //currentState = PlayerState.walk;
+    }
+    */
  
