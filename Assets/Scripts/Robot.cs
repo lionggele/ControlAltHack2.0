@@ -30,7 +30,7 @@ public class Robot : Enemy
         if(Vector3.Distance(target.position,transform.position) <= chaseRadius && Vector3.Distance(target.position,transform.position) > attackRadius)
         {
             //Vector3 temp = 
-            Vector3.MoveTowards(transform.position,target.position,moveSpeed * Time.deltaTime);
+            transform.position = Vector3.MoveTowards(transform.position,target.position,moveSpeed * Time.deltaTime);
             //myRigidbody.MovePosition(temp);  
         }
         

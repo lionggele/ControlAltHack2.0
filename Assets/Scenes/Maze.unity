@@ -4798,7 +4798,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 5
   knockTime: 0.2
---- !u!61 &470930903
+--- !u!61 &470930910
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4830,7 +4830,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.18740965}
+  m_Offset: {x: 0.00000026077032, y: -0.07628709}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -4841,7 +4841,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.45008877, y: 0.32518074}
+  m_Size: {x: 0.35634875, y: 0.54742575}
   m_EdgeRadius: 0
 --- !u!1 &478635617
 GameObject:
@@ -17206,7 +17206,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1740971828}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.41, y: -2.71, z: -6.5}
+  m_LocalPosition: {x: 0.73, y: -9.18, z: -6.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -17270,8 +17270,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 470930883}
   smoothing: 0.6
-  maxPosition: {x: 18.13, y: -0.25}
-  minPosition: {x: 0, y: -9.14}
+  maxPosition: {x: 18.01, y: -0.3}
+  minPosition: {x: 0.75, y: -9.18}
 --- !u!114 &1740971834
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18100,6 +18100,7 @@ GameObject:
   - component: {fileID: 1819521776}
   - component: {fileID: 1819521777}
   - component: {fileID: 1819521778}
+  - component: {fileID: 1819521779}
   m_Layer: 0
   m_Name: 'Enemy '
   m_TagString: enemy
@@ -18139,7 +18140,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0085936785, y: -0.06855203}
+  m_Offset: {x: 0.0043293014, y: -0.023775317}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.48650706, y: 0.6782977}
@@ -18150,7 +18151,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.2855091, y: 0.17317104}
+  m_Size: {x: 0.23433588, y: 0.2797823}
   m_EdgeRadius: 0
 --- !u!212 &1819521774
 SpriteRenderer:
@@ -18281,11 +18282,25 @@ MonoBehaviour:
   health: 2
   enemyName: Commonrobot
   baseAttack: 1
-  moveSpeed: 1.5
+  moveSpeed: 2
   target: {fileID: 470930883}
-  chaseRadius: 4
-  attackRadius: 2
+  chaseRadius: 5
+  attackRadius: 1
   homePosition: {fileID: 0}
+--- !u!114 &1819521779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1819521772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc0e88ff7c54c24a8efce1022b9cd54, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  thrust: 5
+  knockTime: 3
 --- !u!1 &1824120621
 GameObject:
   m_ObjectHideFlags: 0
@@ -23213,6 +23228,14 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5791386550631146553, guid: 10277644edf130f42912a0299d08271c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5791386550631146553, guid: 10277644edf130f42912a0299d08271c, type: 3}
+      propertyPath: m_TagString
+      value: player
+      objectReference: {fileID: 0}
     - target: {fileID: 5791386550631146561, guid: 10277644edf130f42912a0299d08271c, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -23279,7 +23302,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5791386550631146567, guid: 10277644edf130f42912a0299d08271c, type: 3}
       propertyPath: m_Mass
-      value: 10
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5791386550631146567, guid: 10277644edf130f42912a0299d08271c, type: 3}
       propertyPath: m_BodyType
@@ -23319,11 +23342,11 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 5791386550631146553, guid: 10277644edf130f42912a0299d08271c, type: 3}
       insertIndex: -1
+      addedObject: {fileID: 470930910}
+    - targetCorrespondingSourceObject: {fileID: 5791386550631146553, guid: 10277644edf130f42912a0299d08271c, type: 3}
+      insertIndex: -1
       addedObject: {fileID: 470930891}
     - targetCorrespondingSourceObject: {fileID: 5791386550631146553, guid: 10277644edf130f42912a0299d08271c, type: 3}
       insertIndex: -1
       addedObject: {fileID: 470930902}
-    - targetCorrespondingSourceObject: {fileID: 5791386550631146553, guid: 10277644edf130f42912a0299d08271c, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 470930903}
   m_SourcePrefab: {fileID: 100100000, guid: 10277644edf130f42912a0299d08271c, type: 3}
