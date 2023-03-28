@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using TMPro;
 using System;
 
-public class Sign : MonoBehaviour{
+public class Sign1 : MonoBehaviour{
 
     public GameObject[] dialogBoxes;
     public GameObject[] targetObjects;
@@ -18,7 +18,6 @@ public class Sign : MonoBehaviour{
     // Use this for initialization
     void Start () {
         dialogText.text = "";
-        gameObject.tag ="player";
 
         foreach (GameObject dialogBox in dialogBoxes) {
             dialogBox.SetActive(false);

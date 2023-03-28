@@ -24,7 +24,7 @@ public class Pot : MonoBehaviour
     }
 
     
-    IEnumerator breakCo()
+    private IEnumerator breakCo()
     {
         yield return new WaitForSeconds(.3f);
         this.gameObject.SetActive(false);

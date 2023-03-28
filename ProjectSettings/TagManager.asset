@@ -12,6 +12,7 @@ TagManager:
   - CommonChest
   - breakable
   - enemy
+  - sign
   layers:
   - Default
   - TransparentFX
