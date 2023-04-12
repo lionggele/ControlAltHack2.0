@@ -15,9 +15,11 @@ public class Player1 : MonoBehaviour
     public Player1State currentState;
     public float m_moveSpeed = 2f;
     private Animator animator;
+    public KeyCode toggleKey = KeyCode.Space;
+    public FloatValue currentHealth;
+    public Signals playerHealthSignal;
     Vector2 m_moveInput;
     Rigidbody2D m_rb;
-    public KeyCode toggleKey = KeyCode.Space;
 
     void Start()
     {
@@ -68,9 +70,20 @@ public class Player1 : MonoBehaviour
         
     }
     
-    public void Knock(float knockTime)
+    public void Knock(float knockTime, float damage)
     {
-        StartCoroutine(KnockCo(knockTime));
+        currentHealth.initialValue -= damage;   
+        playerHealthSignal.Raise();
+        if(currentHealth.initialValue > 0)
+        {            
+            StartCoroutine(KnockCo(knockTime)); 
+        }
+        else
+        {
+            this.gameObject.SetActive(false);
+        }
+
+        
     }
 
     private IEnumerator KnockCo( float knockTime)

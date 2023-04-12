@@ -18,8 +18,12 @@ public class Enemy : MonoBehaviour
     public float moveSpeed;
     public FloatValue maxHealth;
     public float health;
-    //private Animator anim;
-    
+    private Animator animator;
+
+    void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
     
     private void Awake()
     {
@@ -28,19 +32,23 @@ public class Enemy : MonoBehaviour
 
     private void TakeDamage(float damage)
     {
-        
         health -= damage;
+        Debug.Log(health);
         if(health <= 0)
         {
-            //anim.SetBool("death",true);
+            //animator.SetBool("death",true);
             this.gameObject.SetActive(false);
         }
     }    
 
     public void Knock(Rigidbody2D myRigidbody, float knockTime, float damage) 
     {
-        StartCoroutine(KnockCo(myRigidbody,knockTime));
-        TakeDamage(damage);
+        if (gameObject.activeSelf)
+        {
+            StartCoroutine(KnockCo(myRigidbody,knockTime));
+            TakeDamage(damage);
+            Debug.Log(health);
+        }
     }
     
     private IEnumerator KnockCo(Rigidbody2D myRigidbody, float knockTime)
@@ -53,6 +61,10 @@ public class Enemy : MonoBehaviour
             myRigidbody.velocity = Vector2.zero;
         }
     }
-    
+       
+    public float GetHealth()
+    {
+        return health;
+    }  
 
 }

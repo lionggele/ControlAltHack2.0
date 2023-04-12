@@ -10,7 +10,7 @@ public class Robot : Enemy
     public float chaseRadius;
     public float attackRadius;
     public Transform homePosition;
-    public Animator anim;
+    private Animator anim;
 
 
     // Start is called before the first frame update
@@ -28,14 +28,7 @@ public class Robot : Enemy
     void FixedUpdate()
     {
         CheckDistance();
-    }
-    
-   /*
-    void Update()
-    {
-        CheckDistance();
-    }*/
-    
+    }  
 
     void CheckDistance()
     {
@@ -53,8 +46,7 @@ public class Robot : Enemy
             }
             else if(Vector3.Distance(target.position,transform.position) <= chaseRadius){
                 anim.SetBool("wakeUp",false);
-            }
-            
+            }           
             
         }   
     }
@@ -99,6 +91,5 @@ public class Robot : Enemy
             currentState = newState;  
         }
     }
-    
-    
+
 }
