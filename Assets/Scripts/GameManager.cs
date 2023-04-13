@@ -55,7 +55,7 @@ public class GameManager : MonoBehaviour
     //Save state
     public void SaveState()
     {
-        Debug.Log("SaveState");
+        //Debug.Log("SaveState");
     }
 
     public void LoadState(Scene s, LoadSceneMode mode)

@@ -7,8 +7,8 @@ public class Porta : Collidable
     protected override void OnCollide(Collider2D coll)
     {
         
-        if(coll.name == "Player_0 "){
-            Debug.Log("player");
+        if(coll.name == "Player_0"){
+             //GameManager.instance.SaveState();
                 //Teleport the player
             if(sceneNames.Length > 0) {       
                 string sceneName = sceneNames[Random.Range(0, sceneNames.Length)];

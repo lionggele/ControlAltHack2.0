@@ -13,18 +13,7 @@ public class Chest : Collectable
             collected = true;
             GetComponent<SpriteRenderer>().sprite = emptyChest;
             //Debug.Log("Grant"+ pesosAmount +"pesos");
-            GameManager.instance.ShowText("+" + pesosAmount +"pesos!",25,Color.yellow,transform.position,Vector3.up*100,3.0f);
+            GameManager.instance.ShowText(pesosAmount +" Coins!",30,Color.yellow,transform.position,Vector3.up*100,4.0f);
         }
-        /*
-
-        // Check the tag of the chest and drop the appropriate weapon
-        if(chestTag == "CommonChest") {
-            // Drop common weapon
-            
-        }
-        else if(chestTag == "RareChest") {
-            // Drop rare weapon
-        }
-        */
     }
 }

@@ -236,15 +236,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Modern_Exteriors_Characters_Scout_48x48_1_5
+      name: walk_up
       rect:
         serializedVersion: 2
-        x: 287
-        y: 1679
+        x: 288
+        y: 1678
         width: 47
-        height: 74
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49411893, y: 0.46011978}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -257,13 +257,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Modern_Exteriors_Characters_Scout_48x48_1_6
+      name: walk_up2
       rect:
         serializedVersion: 2
         x: 335
-        y: 1678
-        width: 49
-        height: 78
+        y: 1680
+        width: 48
+        height: 75
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,15 +278,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Modern_Exteriors_Characters_Scout_48x48_1_7
+      name: walk_up4
       rect:
         serializedVersion: 2
-        x: 435
-        y: 1679
-        width: 46
+        x: 434
+        y: 1680
+        width: 47
         height: 74
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.47937986, y: 0.46594897}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -323,9 +323,9 @@ TextureImporter:
       name: Modern_Exteriors_Characters_Scout_48x48_1_9
       rect:
         serializedVersion: 2
-        x: 866
+        x: 865
         y: 1681
-        width: 47
+        width: 48
         height: 75
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -345,9 +345,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 915
-        y: 1680
-        width: 48
-        height: 73
+        y: 1681
+        width: 45
+        height: 72
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5426,10 +5426,10 @@ TextureImporter:
       name: Modern_Exteriors_Characters_Scout_48x48_1_251
       rect:
         serializedVersion: 2
-        x: 241
-        y: 1682
-        width: 46
-        height: 73
+        x: 240
+        y: 1680
+        width: 47
+        height: 75
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5444,15 +5444,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Modern_Exteriors_Characters_Scout_48x48_1_252
+      name: walk_up3
       rect:
         serializedVersion: 2
-        x: 386
-        y: 1682
-        width: 44
-        height: 73
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 384
+        y: 1681
+        width: 47
+        height: 74
+      alignment: 9
+      pivot: {x: 0.51650155, y: 0.4502349}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5465,12 +5465,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Modern_Exteriors_Characters_Scout_48x48_1_253
+      name: walk_up5
       rect:
         serializedVersion: 2
-        x: 483
+        x: 482
         y: 1680
-        width: 45
+        width: 46
         height: 74
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5486,15 +5486,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Modern_Exteriors_Characters_Scout_48x48_1_254
+      name: walk_up6
       rect:
         serializedVersion: 2
         x: 530
         y: 1679
         width: 44
         height: 75
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.48237887, y: 0.466403}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5532,9 +5532,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 625
-        y: 1681
-        width: 49
-        height: 73
+        y: 1682
+        width: 47
+        height: 72
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5552,9 +5552,9 @@ TextureImporter:
       name: Modern_Exteriors_Characters_Scout_48x48_1_257
       rect:
         serializedVersion: 2
-        x: 673
+        x: 672
         y: 1680
-        width: 46
+        width: 47
         height: 75
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5573,9 +5573,9 @@ TextureImporter:
       name: Modern_Exteriors_Characters_Scout_48x48_1_258
       rect:
         serializedVersion: 2
-        x: 722
+        x: 720
         y: 1681
-        width: 47
+        width: 48
         height: 74
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5594,9 +5594,9 @@ TextureImporter:
       name: Modern_Exteriors_Characters_Scout_48x48_1_259
       rect:
         serializedVersion: 2
-        x: 770
+        x: 769
         y: 1682
-        width: 47
+        width: 48
         height: 73
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5636,10 +5636,10 @@ TextureImporter:
       name: Modern_Exteriors_Characters_Scout_48x48_1_261
       rect:
         serializedVersion: 2
-        x: 960
+        x: 962
         y: 1682
-        width: 49
-        height: 71
+        width: 44
+        height: 73
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5657,9 +5657,9 @@ TextureImporter:
       name: Modern_Exteriors_Characters_Scout_48x48_1_262
       rect:
         serializedVersion: 2
-        x: 1009
+        x: 1007
         y: 1682
-        width: 44
+        width: 46
         height: 73
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5754,6 +5754,7 @@ TextureImporter:
       Modern_Exteriors_Characters_Scout_48x48_1_256: 1888366682
       Modern_Exteriors_Characters_Scout_48x48_1_152: -1024207153
       Modern_Exteriors_Characters_Scout_48x48_1_226: -311510005
+      walk_up: 110899465
       Modern_Exteriors_Characters_Scout_48x48_1_69: -889088088
       Modern_Exteriors_Characters_Scout_48x48_1_75: -550475207
       Modern_Exteriors_Characters_Scout_48x48_1_91: 1519070287
@@ -5766,6 +5767,7 @@ TextureImporter:
       Modern_Exteriors_Characters_Scout_48x48_1_88: 686308483
       Modern_Exteriors_Characters_Scout_48x48_1_145: 312644012
       Modern_Exteriors_Characters_Scout_48x48_1_198: 59443450
+      walk_up5: -1649195442
       Modern_Exteriors_Characters_Scout_48x48_1_50: 1126502473
       Modern_Exteriors_Characters_Scout_48x48_1_117: -820468112
       Modern_Exteriors_Characters_Scout_48x48_1_211: 1654625702
@@ -5821,12 +5823,12 @@ TextureImporter:
       Modern_Exteriors_Characters_Scout_48x48_1_49: 1141293241
       Modern_Exteriors_Characters_Scout_48x48_1_86: 941950433
       Modern_Exteriors_Characters_Scout_48x48_1_197: 2145760509
-      Modern_Exteriors_Characters_Scout_48x48_1_39: -2048149980
+      Modern_Exteriors_Characters_Scout_48x48_1_84: 496041948
       Modern_Exteriors_Characters_Scout_48x48_1_142: 1971227199
       Modern_Exteriors_Characters_Scout_48x48_1_103: 1773219459
       Modern_Exteriors_Characters_Scout_48x48_1_176: -1835746314
       Modern_Exteriors_Characters_Scout_48x48_1_112: -1361958470
-      Modern_Exteriors_Characters_Scout_48x48_1_84: 496041948
+      Modern_Exteriors_Characters_Scout_48x48_1_39: -2048149980
       Modern_Exteriors_Characters_Scout_48x48_1_213: 922640235
       Modern_Exteriors_Characters_Scout_48x48_1_82: -472321459
       Modern_Exteriors_Characters_Scout_48x48_1_133: -1940030629
@@ -5841,9 +5843,8 @@ TextureImporter:
       Modern_Exteriors_Characters_Scout_48x48_1_156: -1249235079
       Modern_Exteriors_Characters_Scout_48x48_1_231: -2029777519
       Modern_Exteriors_Characters_Scout_48x48_1_105: 582463203
-      Modern_Exteriors_Characters_Scout_48x48_1_6: -1353955143
-      Modern_Exteriors_Characters_Scout_48x48_1_164: 607809301
       Modern_Exteriors_Characters_Scout_48x48_1_243: -1378075469
+      Modern_Exteriors_Characters_Scout_48x48_1_164: 607809301
       Modern_Exteriors_Characters_Scout_48x48_1_87: -1205485033
       Modern_Exteriors_Characters_Scout_48x48_1_139: 731822522
       Modern_Exteriors_Characters_Scout_48x48_1_71: 166520692
@@ -5856,7 +5857,6 @@ TextureImporter:
       Modern_Exteriors_Characters_Scout_48x48_1_174: -1470735333
       Modern_Exteriors_Characters_Scout_48x48_1_83: 849029867
       Modern_Exteriors_Characters_Scout_48x48_1_107: 1372748528
-      Modern_Exteriors_Characters_Scout_48x48_1_253: -1649195442
       Modern_Exteriors_Characters_Scout_48x48_1_260: 1126415883
       Modern_Exteriors_Characters_Scout_48x48_1_138: 272890644
       idle_left: 1284238839
@@ -5869,9 +5869,11 @@ TextureImporter:
       Modern_Exteriors_Characters_Scout_48x48_1_151: -465653646
       Modern_Exteriors_Characters_Scout_48x48_1_157: -991044141
       Modern_Exteriors_Characters_Scout_48x48_1_187: -1288990667
+      walk_up3: -682081775
       Modern_Exteriors_Characters_Scout_48x48_1_62: -777335292
       Modern_Exteriors_Characters_Scout_48x48_1_111: -1784379130
       Modern_Exteriors_Characters_Scout_48x48_1_36: -466428586
+      walk_up4: 120777215
       Modern_Exteriors_Characters_Scout_48x48_1_251: -176167839
       Modern_Exteriors_Characters_Scout_48x48_1_22: 1443649546
       Modern_Exteriors_Characters_Scout_48x48_1_55: -256904532
@@ -5885,7 +5887,6 @@ TextureImporter:
       Modern_Exteriors_Characters_Scout_48x48_1_245: -445951159
       Modern_Exteriors_Characters_Scout_48x48_1_203: 1680522962
       Modern_Exteriors_Characters_Scout_48x48_1_146: -237797769
-      Modern_Exteriors_Characters_Scout_48x48_1_252: -682081775
       Modern_Exteriors_Characters_Scout_48x48_1_239: -2039095435
       Modern_Exteriors_Characters_Scout_48x48_1_118: -1279132594
       Modern_Exteriors_Characters_Scout_48x48_1_3: 1220840514
@@ -5956,9 +5957,7 @@ TextureImporter:
       Modern_Exteriors_Characters_Scout_48x48_1_29: -1057062523
       Modern_Exteriors_Characters_Scout_48x48_1_67: 1291516592
       Modern_Exteriors_Characters_Scout_48x48_1_181: 1334591677
-      Modern_Exteriors_Characters_Scout_48x48_1_5: 110899465
       Modern_Exteriors_Characters_Scout_48x48_1_11: -528185772
-      Modern_Exteriors_Characters_Scout_48x48_1_254: 598392895
       Modern_Exteriors_Characters_Scout_48x48_1_263: -1887670455
       Modern_Exteriors_Characters_Scout_48x48_1_14: 1225323545
       Modern_Exteriors_Characters_Scout_48x48_1_195: 114346974
@@ -5966,14 +5965,15 @@ TextureImporter:
       Modern_Exteriors_Characters_Scout_48x48_1_35: 1913150775
       Modern_Exteriors_Characters_Scout_48x48_1_232: 379698821
       Modern_Exteriors_Characters_Scout_48x48_1_46: -796136367
-      Modern_Exteriors_Characters_Scout_48x48_1_7: 120777215
-      Modern_Exteriors_Characters_Scout_48x48_1_247: -1349848259
       Modern_Exteriors_Characters_Scout_48x48_1_130: -1824539264
+      Modern_Exteriors_Characters_Scout_48x48_1_247: -1349848259
+      walk_up6: 598392895
       Modern_Exteriors_Characters_Scout_48x48_1_201: -1622201137
       Modern_Exteriors_Characters_Scout_48x48_1_26: 2058486581
       Modern_Exteriors_Characters_Scout_48x48_1_61: -1644622154
       Modern_Exteriors_Characters_Scout_48x48_1_257: 1072109903
       Modern_Exteriors_Characters_Scout_48x48_1_223: -1856807665
+      walk_up2: -1353955143
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -31,11 +31,12 @@ public class Password : MonoBehaviour
         InputSystem.EnableDevice(Keyboard.current);
     
         userpage.SetActive(false);
-        //submitButton.SetActive(false);
-        //inputField.SetActive(false);
-        //userpage.SetActive(false);
-
-        //https://www.youtube.com/watch?v=4n6RT805rCc&t=275s&ab_channel=CodeMonkey
 
     }
+
+    public string GetUserInput()
+    {
+        return userInput;
+    }
+
 }

@@ -13,6 +13,8 @@ TagManager:
   - breakable
   - enemy
   - sign
+  - Damage
+  - password
   layers:
   - Default
   - TransparentFX
