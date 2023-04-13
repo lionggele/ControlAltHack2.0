@@ -2,14 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using TMPro;
 using System;
 
 public class Sign1 : MonoBehaviour{
 
     public GameObject[] dialogBoxes;
     public GameObject[] targetObjects;
-    public TMP_Text dialogText;
+    //public TMP_Text dialogText;
     public string dialog;
     public bool playerInRange;
     public float range = 2.0f;
@@ -17,7 +16,7 @@ public class Sign1 : MonoBehaviour{
 
     // Use this for initialization
     void Start () {
-        dialogText.text = "";
+        //dialogText.text ="";
 
         foreach (GameObject dialogBox in dialogBoxes) {
             dialogBox.SetActive(false);
@@ -35,9 +34,7 @@ public class Sign1 : MonoBehaviour{
                 if (Vector2.Distance(transform.position, targetObject.transform.position) < range) {
                     dialogBox.SetActive(!dialogBox.activeSelf);
 
-                    if (dialogBox.activeInHierarchy) {
-                        dialogText.text = "";
-                    }
+
                 }
             }
         }

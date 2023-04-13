@@ -14,6 +14,12 @@ public class Portal : Collidable
                 string sceneName = sceneNames[Random.Range(0, sceneNames.Length)];
                 UnityEngine.SceneManagement.SceneManager.LoadScene(sceneName);
             }
+
+            // Stop the timer
+            Timer timer = FindObjectOfType<Timer>();
+            if (timer != null) {
+                timer.StopTimer();
+            }
         }
     }
 }
