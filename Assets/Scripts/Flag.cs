@@ -1,39 +1,42 @@
 using UnityEngine;  
 using UnityEngine.UI;
-using System;
-
 
 public class Flag : MonoBehaviour
 {
-    private static int totalFlagCount = 4;
-    private int flagCount = 0;
+    private int flagCount;
+    private int flag;
     public Text dialogText;
     public GameObject door;
 
-
     private void Start()
     { 
-        totalFlagCount++;
         door.SetActive(true);
+        UpdateFlagCountText();
+        flagCount = 0;
+        flag = 0;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("player"))
         {
-            Destroy(gameObject); // Destroy the flag object
-            IncreaseFlagCount();
+            flagCount++;
+            flag = flag + flagCount;
+            UpdateFlagCountText();
+            CheckFlagCount();
+            Destroy(gameObject);
         }
     }
 
-    public void IncreaseFlagCount()
+    private void UpdateFlagCountText()
     {
-        flagCount++;
-        dialogText.text = "Flags collected: " + flagCount;
+        dialogText.text = "Flags collected:";
+    }
 
+    private void CheckFlagCount()
+    {
         if (flagCount == 4)
         {
-            //Debug.Log("4Flag");
             door.SetActive(false);
         }
     }
