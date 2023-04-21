@@ -3,8 +3,8 @@
 <h1>How to play</h1>
 
 1. Download the zip file
-2. Extract zip file
-4. Open file
+2. Extract all files
+4. Open Control-Alt-Hack 2.0 Game file
 3. Double click <b>Control-Alt-Hack 2.0</b> and ENJOY!
 
 <br>guys these are not the final MasterBranch/ReadMe, please test out the game and search for bugs</br>
