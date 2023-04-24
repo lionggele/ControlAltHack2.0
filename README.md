@@ -5,7 +5,7 @@
 1. Download the zip file
 2. Extract all files
 4. Open GAME file
-3. Double click <b>Control-Alt-Hack 2.0</b> .exe/Application file and ENJOY!
+3. Double click <b>Control-Alt-Hack 2.0</b> exe/application file and ENJOY!
 
 <h1>How to Import Unity Package File</h1>
 The Unity Package File of this game is available for people to use and look at our inner workings of the game through Unity editor
