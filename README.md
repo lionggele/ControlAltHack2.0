@@ -4,7 +4,7 @@
 
 1. Download the zip file
 2. Extract all files
-4. Open Control-Alt-Hack 2.0 Game file
+4. Open GAME file
 3. Double click <b>Control-Alt-Hack 2.0</b> .exe/Application file and ENJOY!
 
 <br>guys these are not the final MasterBranch/ReadMe, please test out the game and search for bugs</br>
